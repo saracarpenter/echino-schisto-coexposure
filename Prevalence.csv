@@ -1,0 +1,13 @@
+﻿treatment.group,parasite,prevalence
+Echino,Echino,0.448979592
+Echino,Schisto,
+Schisto,Echino,
+Schisto,Schisto,0.8
+Simul,Echino,0.36
+Simul,Schisto,0.28
+1 Week,Echino,0.333333333
+1 Week,Schisto,0.24
+4 Week,Echino,0.212765957
+4 Week,Schisto,0.5625
+6 Week,Echino,0.348837209
+6 Week,Schisto,0.340425532

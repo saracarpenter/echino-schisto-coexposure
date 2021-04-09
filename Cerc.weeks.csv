@@ -1,0 +1,208 @@
+﻿treatment group,exposure,snail.id,echino.weeks,echino.status,schisto.weeks,schisto.status
+1 Week,co-exposed,o4,5,1,,
+1 Week,co-exposed,o6,5,1,,
+1 Week,co-exposed,o7,5,1,,
+1 Week,co-exposed,o8,5,1,,
+1 Week,co-exposed,o15,5,1,,
+1 Week,co-exposed,o17,5,1,,
+1 Week,co-exposed,o19,5,1,,
+1 Week,co-exposed,o20,5,1,,
+1 Week,co-exposed,o21,5,1,,
+1 Week,co-exposed,o30,6,1,,
+1 Week,co-exposed,o36,5,1,,
+1 Week,co-exposed,o37,6,1,,
+1 Week,co-exposed,o39,5,1,,
+1 Week,co-exposed,o43,5,1,,
+1 Week,co-exposed,o45,4,1,,
+1 Week,co-exposed,o48,5,1,,
+4 Week,co-exposed,f19,5,1,,
+4 Week,co-exposed,f21,9,1,,
+4 Week,co-exposed,f25,5,1,,
+4 Week,co-exposed,f28,10,1,,
+4 Week,co-exposed,f30,5,1,,
+4 Week,co-exposed,f33,9,1,,
+4 Week,co-exposed,f37,5,1,,
+4 Week,co-exposed,f39,8,1,,
+4 Week,co-exposed,f42,12,1,,
+4 Week,co-exposed,f47,8,1,,
+6 Week,co-exposed,x3,5,1,,
+6 Week,co-exposed,x4,5,1,,
+6 Week,co-exposed,x10,5,1,,
+6 Week,co-exposed,x13,8,1,,
+6 Week,co-exposed,x17,10,1,,
+6 Week,co-exposed,x22,6,1,,
+6 Week,co-exposed,x26,7,1,,
+6 Week,co-exposed,x35,5,1,,
+6 Week,co-exposed,x37,5,1,,
+6 Week,co-exposed,x38,5,1,,
+6 Week,co-exposed,x39,4,1,,
+6 Week,co-exposed,x41,5,1,,
+6 Week,co-exposed,x45,8,1,,
+6 Week,co-exposed,x48,7,1,,
+6 Week,co-exposed,x42,9,1,,
+Simul,co-exposed,z1,5,1,,
+Simul,co-exposed,z7,6,1,,
+Simul,co-exposed,z9,5,1,,
+Simul,co-exposed,z11,5,1,,
+Simul,co-exposed,z13,5,1,,
+Simul,co-exposed,z14,7,1,,
+Simul,co-exposed,z15,5,1,,
+Simul,co-exposed,z16,6,1,,
+Simul,co-exposed,z18,7,1,,
+Simul,co-exposed,z22,6,1,,
+Simul,co-exposed,z24,5,1,,
+Simul,co-exposed,z26,6,1,,
+Simul,co-exposed,z29,5,1,,
+Simul,co-exposed,z35,5,1,,
+Simul,co-exposed,z37,5,1,,
+Simul,co-exposed,z39,5,1,,
+Simul,co-exposed,z43,5,1,,
+Simul,co-exposed,z46,5,1,,
+Echino,single exposed,e1,5,1,,
+Echino,single exposed,e3,5,1,,
+Echino,single exposed,e12,4,1,,
+Echino,single exposed,e15,5,1,,
+Echino,single exposed,e18,5,1,,
+Echino,single exposed,e19,4,1,,
+Echino,single exposed,e21,5,1,,
+Echino,single exposed,e22,4,1,,
+Echino,single exposed,e23,5,1,,
+Echino,single exposed,e24,5,1,,
+Echino,single exposed,e26,5,1,,
+Echino,single exposed,e27,5,1,,
+Echino,single exposed,e28,5,1,,
+Echino,single exposed,e31,5,1,,
+Echino,single exposed,e32,4,1,,
+Echino,single exposed,e33,4,1,,
+Echino,single exposed,e35,5,1,,
+Echino,single exposed,e40,5,1,,
+Echino,single exposed,e43,4,1,,
+Echino,single exposed,e46,4,1,,
+Echino,single exposed,e49,5,1,,
+Echino,single exposed,e50,4,1,,
+Schisto,single,s1,,,5,1
+Schisto,single,s2,,,5,1
+Schisto,single,s4,,,5,1
+Schisto,single,s6,,,5,1
+Schisto,single,s7,,,4,1
+Schisto,single,s8,,,5,1
+Schisto,single,s9,,,5,1
+Schisto,single,s10,,,5,1
+Schisto,single,s11,,,4,1
+Schisto,single,s13,,,5,1
+Schisto,single,s14,,,4,1
+Schisto,single,s15,,,5,1
+Schisto,single,s16,,,5,1
+Schisto,single,s17,,,5,1
+Schisto,single,s18,,,5,1
+Schisto,single,s19,,,5,1
+Schisto,single,s20,,,5,1
+Schisto,single,s22,,,5,1
+Schisto,single,s23,,,5,1
+Schisto,single,s24,,,5,1
+Schisto,single,s25,,,5,1
+Schisto,single,s26,,,5,1
+Schisto,single,s27,,,5,1
+Schisto,single,s28,,,5,1
+Schisto,single,s29,,,5,1
+Schisto,single,s31,,,5,1
+Schisto,single,s32,,,5,1
+Schisto,single,s33,,,5,1
+Schisto,single,s34,,,5,1
+Schisto,single,s35,,,5,1
+Schisto,single,s36,,,5,1
+Schisto,single,s39,,,5,1
+Schisto,single,s40,,,5,1
+Schisto,single,s42,,,5,1
+Schisto,single,s43,,,5,1
+Schisto,single,s44,,,5,1
+Schisto,single,s47,,,5,1
+Schisto,single,s48,,,5,1
+Schisto,single,s49,,,5,1
+Schisto,single,s50,,,5,1
+Simul,co-exposed,z2,,,6,1
+Simul,co-exposed,z6,,,7,1
+Simul,co-exposed,z10,,,6,1
+Simul,co-exposed,z20,,,5,1
+Simul,co-exposed,z27,,,6,1
+Simul,co-exposed,z28,,,6,1
+Simul,co-exposed,z30,,,5,1
+Simul,co-exposed,z40,,,9,1
+Simul,co-exposed,z41,,,5,1
+Simul,co-exposed,z42,,,5,1
+Simul,co-exposed,z45,,,6,1
+Simul,co-exposed,z48,,,5,1
+Simul,co-exposed,z49,,,5,1
+Simul,co-exposed,z50,,,5,1
+1 Week,co-exposed,o5,,,5,1
+1 Week,co-exposed,o7,,,5,1
+1 Week,co-exposed,o9,,,5,1
+1 Week,co-exposed,o13,,,7,1
+1 Week,co-exposed,o18,,,5,1
+1 Week,co-exposed,o20,,,5,1
+1 Week,co-exposed,o22,,,5,1
+1 Week,co-exposed,o24,,,5,1
+1 Week,co-exposed,o32,,,5,1
+1 Week,co-exposed,o34,,,5,1
+1 Week,co-exposed,o35,,,5,1
+1 Week,co-exposed,o36,,,5,1
+1 Week,co-exposed,o37,,,5,1
+1 Week,co-exposed,o38,,,5,1
+1 Week,co-exposed,o46,,,5,1
+1 Week,co-exposed,o47,,,5,1
+1 Week,co-exposed,o48,,,5,1
+4 Week,co-exposed,f4,,,5,1
+4 Week,co-exposed,f5,,,6,1
+4 Week,co-exposed,f6,,,5,1
+4 Week,co-exposed,f7,,,5,1
+4 Week,co-exposed,f9,,,5,1
+4 Week,co-exposed,f10,,,5,1
+4 Week,co-exposed,f11,,,5,1
+4 Week,co-exposed,f12,,,5,1
+4 Week,co-exposed,f13,,,5,1
+4 Week,co-exposed,f14,,,5,1
+4 Week,co-exposed,f16,,,5,1
+4 Week,co-exposed,f17,,,6,1
+4 Week,co-exposed,f18,,,5,1
+4 Week,co-exposed,f20,,,5,1
+4 Week,co-exposed,f21,,,5,1
+4 Week,co-exposed,f22,,,5,1
+4 Week,co-exposed,f23,,,5,1
+4 Week,co-exposed,f24,,,5,1
+4 Week,co-exposed,f25,,,6,1
+4 Week,co-exposed,f26,,,5,1
+4 Week,co-exposed,f27,,,5,1
+4 Week,co-exposed,f28,,,5,1
+4 Week,co-exposed,f32,,,5,1
+4 Week,co-exposed,f33,,,5,1
+4 Week,co-exposed,f35,,,5,1
+4 Week,co-exposed,f36,,,5,1
+4 Week,co-exposed,f38,,,5,1
+4 Week,co-exposed,f39,,,5,1
+4 Week,co-exposed,f41,,,5,1
+4 Week,co-exposed,f42,,,5,1
+4 Week,co-exposed,f44,,,6,1
+4 Week,co-exposed,f45,,,6,1
+4 Week,co-exposed,f47,,,5,1
+4 Week,co-exposed,f50,,,5,1
+6 Week,co-exposed,x2,,,5,1
+6 Week,co-exposed,x7,,,5,1
+6 Week,co-exposed,x9,,,5,1
+6 Week,co-exposed,x11,,,5,1
+6 Week,co-exposed,x13,,,5,1
+6 Week,co-exposed,x15,,,5,1
+6 Week,co-exposed,x16,,,5,1
+6 Week,co-exposed,x17,,,5,1
+6 Week,co-exposed,x18,,,5,1
+6 Week,co-exposed,x19,,,5,1
+6 Week,co-exposed,x21,,,5,1
+6 Week,co-exposed,x25,,,5,1
+6 Week,co-exposed,x26,,,5,1
+6 Week,co-exposed,x30,,,5,1
+6 Week,co-exposed,x31,,,5,1
+6 Week,co-exposed,x32,,,5,1
+6 Week,co-exposed,x34,,,5,1
+6 Week,co-exposed,x42,,,5,1
+6 Week,co-exposed,x43,,,5,1
+6 Week,co-exposed,x45,,,5,1
+6 Week,co-exposed,x46,,,5,1

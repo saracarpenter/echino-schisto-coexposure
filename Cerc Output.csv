@@ -1,0 +1,1310 @@
+sub.group,treatment.group,exp.week,snail.id,infection.outcome,week,size,echino.cercs,schisto.cercs
+Co-exposed,1 week,1,o4,echino,6,17,3,
+Co-exposed,1 week,1,o45,echino,5,11.7,7,
+Co-exposed,1 week,1,o7,coinfected,6,16.3,10,1
+Co-exposed,1 week,1,o15,echino,6,15.4,10,
+Co-exposed,1 week,1,o20,coinfected,6,15.8,13,2
+Co-exposed,1 week,1,o8,echino,6,12.3,30,
+Co-exposed,1 week,1,o30,echino,7,13.2,31,
+Co-exposed,1 week,1,o6,echino,7,15.2,34,
+Co-exposed,1 week,1,o7,coinfected,9,18.1,36,
+Co-exposed,1 week,1,o19,echino,6,15.9,54,
+Co-exposed,1 week,1,o37,coinfected,7,15.9,56,
+Co-exposed,1 week,1,o48,coinfected,7,14.2,57,
+Co-exposed,1 week,1,o6,echino,6,14.5,63,
+Co-exposed,1 week,1,o36,coinfected,6,15,64,31
+Co-exposed,1 week,1,o8,echino,7,13,69,
+Co-exposed,1 week,1,o17,echino,6,13.8,102,
+Co-exposed,1 week,1,o7,coinfected,7,16.6,120,
+Co-exposed,1 week,1,o39,echino,7,13.5,132,
+Co-exposed,1 week,1,o30,echino,8,13.7,135,
+Co-exposed,1 week,1,o21,echino,6,13.5,143,
+Co-exposed,1 week,1,o20,coinfected,8,16.7,145,
+Co-exposed,1 week,1,o39,echino,6,12.9,163,
+Co-exposed,1 week,1,o48,coinfected,6,13.8,164,
+Co-exposed,1 week,1,o45,echino,6,11.8,169,
+Co-exposed,1 week,1,o37,coinfected,8,16,179,
+Co-exposed,1 week,1,o15,echino,7,15.7,181,
+Co-exposed,1 week,1,o20,coinfected,7,16.1,253,
+Co-exposed,1 week,1,o7,coinfected,8,17.8,254,
+Co-exposed,1 week,1,o4,echino,8,18,261,
+Co-exposed,1 week,1,o43,echino,6,13.6,262,
+Co-exposed,1 week,1,o19,echino,7,16.6,308,
+Co-exposed,1 week,1,o4,echino,7,17.7,401,
+Co-exposed,1 week,1,o38,schisto,8,15.7,,2
+Co-exposed,1 week,1,o36,coinfected,5,14.7,,3
+Co-exposed,1 week,1,o48,coinfected,5,13.6,,4
+Co-exposed,1 week,1,o5,schisto,8,15.2,,6
+Co-exposed,1 week,1,o7,coinfected,5,16.3,,9
+Co-exposed,1 week,1,o32,schisto,12,16,,10
+Co-exposed,1 week,1,o47,schisto,9,15.7,,11
+Co-exposed,1 week,1,o9,schisto,5,15.8,,11
+Co-exposed,1 week,1,o24,schisto,8,14.5,,13
+Co-exposed,1 week,1,o24,schisto,10,14.6,,16
+Co-exposed,1 week,1,o32,schisto,8,15.8,,16
+Co-exposed,1 week,1,o35,schisto,8,16.5,,17
+Co-exposed,1 week,1,o38,schisto,9,15.9,,17
+Co-exposed,1 week,1,o32,schisto,5,15.3,,18
+Co-exposed,1 week,1,o38,schisto,5,14.9,,19
+Co-exposed,1 week,1,o37,coinfected,5,15.2,,26
+Co-exposed,1 week,1,o34,schisto,5,15.8,,27
+Co-exposed,1 week,1,o24,schisto,9,14.4,,29
+Co-exposed,1 week,1,o35,schisto,12,16.7,,30
+Co-exposed,1 week,1,o32,schisto,7,15.6,,32
+Co-exposed,1 week,1,o20,coinfected,5,15.4,,34
+Co-exposed,1 week,1,o24,schisto,6,13.7,,35
+Co-exposed,1 week,1,o24,schisto,13,14.9,,36
+Co-exposed,1 week,1,o38,schisto,11,16,,37
+Co-exposed,1 week,1,o46,schisto,5,15.9,,40
+Co-exposed,1 week,1,o34,schisto,8,16,,42
+Co-exposed,1 week,1,o32,schisto,11,15.9,,43
+Co-exposed,1 week,1,o38,schisto,7,15.5,,43
+Co-exposed,1 week,1,o47,schisto,12,15.8,,43
+Co-exposed,1 week,1,o5,schisto,6,14.6,,43
+Co-exposed,1 week,1,o34,schisto,9,16,,44
+Co-exposed,1 week,1,o35,schisto,13,16.7,,45
+Co-exposed,1 week,1,o32,schisto,10,16,,46
+Co-exposed,1 week,1,o46,schisto,12,16.9,,47
+Co-exposed,1 week,1,o5,schisto,9,15.5,,47
+Co-exposed,1 week,1,o47,schisto,10,15.7,,48
+Co-exposed,1 week,1,o5,schisto,7,14.8,,48
+Co-exposed,1 week,1,o5,schisto,10,15.7,,48
+Co-exposed,1 week,1,o5,schisto,12,15.6,,48
+Co-exposed,1 week,1,o5,schisto,13,15.9,,49
+Co-exposed,1 week,1,o9,schisto,13,16.5,,53
+Co-exposed,1 week,1,o24,schisto,11,14.7,,54
+Co-exposed,1 week,1,o35,schisto,9,16.5,,54
+Co-exposed,1 week,1,o35,schisto,5,16.2,,55
+Co-exposed,1 week,1,o9,schisto,10,16.5,,55
+Co-exposed,1 week,1,o13,schisto,8,14.4,,56
+Co-exposed,1 week,1,o32,schisto,9,15.8,,56
+Co-exposed,1 week,1,o35,schisto,7,16.3,,56
+Co-exposed,1 week,1,o46,schisto,8,16.4,,56
+Co-exposed,1 week,1,o38,schisto,12,16.1,,57
+Co-exposed,1 week,1,o34,schisto,13,16.9,,58
+Co-exposed,1 week,1,o9,schisto,8,16.3,,58
+Co-exposed,1 week,1,o24,schisto,12,14.9,,59
+Co-exposed,1 week,1,o9,schisto,9,16.5,,60
+Co-exposed,1 week,1,o38,schisto,10,16.1,,63
+Co-exposed,1 week,1,o32,schisto,13,15.9,,64
+Co-exposed,1 week,1,o46,schisto,6,16,,67
+Co-exposed,1 week,1,o47,schisto,13,15.8,,68
+Co-exposed,1 week,1,o18,schisto,5,13.9,,70
+Co-exposed,1 week,1,o38,schisto,6,15.3,,70
+Co-exposed,1 week,1,o9,schisto,7,16.3,,70
+Co-exposed,1 week,1,o47,schisto,8,15.5,,71
+Co-exposed,1 week,1,o34,schisto,11,15.9,,72
+Co-exposed,1 week,1,o9,schisto,6,16,,73
+Co-exposed,1 week,1,o13,schisto,7,14,,74
+Co-exposed,1 week,1,o34,schisto,10,16,,74
+Co-exposed,1 week,1,o46,schisto,9,16.6,,75
+Co-exposed,1 week,1,o34,schisto,6,15.8,,76
+Co-exposed,1 week,1,o18,schisto,6,13.9,,77
+Co-exposed,1 week,1,o9,schisto,11,16.4,,78
+Co-exposed,1 week,1,o5,schisto,11,15.9,,80
+Co-exposed,1 week,1,o22,schisto,5,15.4,,82
+Co-exposed,1 week,1,o47,schisto,6,15.2,,85
+Co-exposed,1 week,1,o35,schisto,10,16.7,,86
+Co-exposed,1 week,1,o35,schisto,11,16.6,,89
+Co-exposed,1 week,1,o34,schisto,12,16,,90
+Co-exposed,1 week,1,o38,schisto,13,16.3,,92
+Co-exposed,1 week,1,o5,schisto,5,14.5,,94
+Co-exposed,1 week,1,o24,schisto,7,14.3,,97
+Co-exposed,1 week,1,o32,schisto,6,15.3,,102
+Co-exposed,1 week,1,o46,schisto,13,16.9,,103
+Co-exposed,1 week,1,o9,schisto,12,16.4,,110
+Co-exposed,1 week,1,o13,schisto,13,15.5,,112
+Co-exposed,1 week,1,o22,schisto,6,15.6,,112
+Co-exposed,1 week,1,o34,schisto,7,15.8,,115
+Co-exposed,1 week,1,o47,schisto,5,15,,115
+Co-exposed,1 week,1,o46,schisto,7,16.2,,116
+Co-exposed,1 week,1,o24,schisto,5,13.7,,118
+Co-exposed,1 week,1,o13,schisto,11,15.1,,119
+Co-exposed,1 week,1,o13,schisto,12,15.4,,120
+Co-exposed,1 week,1,o47,schisto,7,15.3,,126
+Co-exposed,1 week,1,o13,schisto,10,14.9,,130
+Co-exposed,1 week,1,o46,schisto,10,16.8,,134
+Co-exposed,1 week,1,o46,schisto,11,16.9,,134
+Co-exposed,1 week,1,o13,schisto,9,14.6,,143
+Co-exposed,1 week,1,o47,schisto,11,15.7,,146
+Co-exposed,1 week,1,o35,schisto,6,16.4,,163
+Co-exposed,4 week,4,f42,coinfected,16,16.9,4,1
+Co-exposed,4 week,4,f33,coinfected,15,17.1,9,
+Co-exposed,4 week,4,f47,coinfected,15,13.1,10,
+Co-exposed,4 week,4,f33,coinfected,13,17.2,13,
+Co-exposed,4 week,4,f42,coinfected,18,16.9,13,
+Co-exposed,4 week,4,f42,coinfected,17,16.9,16,
+Co-exposed,4 week,4,f28,coinfected,16,16.7,40,
+Co-exposed,4 week,4,f21,coinfected,15,17.3,45,
+Co-exposed,4 week,4,f28,coinfected,15,16.9,47,
+Co-exposed,4 week,4,f30,echino,9,16.9,49,
+Co-exposed,4 week,4,f28,coinfected,14,16.8,51,
+Co-exposed,4 week,4,f47,coinfected,12,12.4,54,1
+Co-exposed,4 week,4,f21,coinfected,13,17,69,
+Co-exposed,4 week,4,f25,coinfected,9,15.4,83,
+Co-exposed,4 week,4,f39,coinfected,12,14.5,89,4
+Co-exposed,4 week,4,f47,coinfected,14,13.2,89,
+Co-exposed,4 week,4,f47,coinfected,13,12.7,91,2
+Co-exposed,4 week,4,f33,coinfected,14,17.2,100,
+Co-exposed,4 week,4,f39,coinfected,15,15.6,123,
+Co-exposed,4 week,4,f30,echino,11,17.7,135,
+Co-exposed,4 week,4,f19,echino,10,17,167,
+Co-exposed,4 week,4,f39,coinfected,13,14.8,212,1
+Co-exposed,4 week,4,f39,coinfected,14,15.6,254,1
+Co-exposed,4 week,4,f25,coinfected,11,16.7,291,
+Co-exposed,4 week,4,f19,echino,9,16.3,351,
+Co-exposed,4 week,4,f21,coinfected,14,17.3,354,
+Co-exposed,4 week,4,f37,echino,9,14.8,376,
+Co-exposed,4 week,4,f30,echino,10,17.4,394,
+Co-exposed,4 week,4,f25,coinfected,10,16.2,434,
+Co-exposed,4 week,4,f13,schisto,15,14.3,,1
+Co-exposed,4 week,4,f36,schisto,5,15.9,,1
+Co-exposed,4 week,4,f21,coinfected,12,17.1,,2
+Co-exposed,4 week,4,f28,coinfected,13,16.8,,2
+Co-exposed,4 week,4,f13,schisto,16,14.3,,3
+Co-exposed,4 week,4,f25,coinfected,6,14.6,,3
+Co-exposed,4 week,4,f32,schisto,15,14.8,,3
+Co-exposed,4 week,4,f44,schisto,12,16.8,,3
+Co-exposed,4 week,4,f47,coinfected,11,12.3,,3
+Co-exposed,4 week,4,f11,schisto,5,13.9,,4
+Co-exposed,4 week,4,f27,schisto,11,18,,5
+Co-exposed,4 week,4,f39,coinfected,11,14.6,,5
+Co-exposed,4 week,4,f32,schisto,14,14.8,,6
+Co-exposed,4 week,4,f33,coinfected,12,17.1,,6
+Co-exposed,4 week,4,f4,schisto,15,18,,6
+Co-exposed,4 week,4,f26,schisto,10,17.9,,7
+Co-exposed,4 week,4,f32,schisto,13,14.4,,7
+Co-exposed,4 week,4,f9,schisto,14,16,,7
+Co-exposed,4 week,4,f41,schisto,13,17.6,,8
+Co-exposed,4 week,4,f6,schisto,5,13.2,,8
+Co-exposed,4 week,4,f7,schisto,5,15.4,,8
+Co-exposed,4 week,4,f13,schisto,11,13.9,,9
+Co-exposed,4 week,4,f25,coinfected,7,15,,10
+Co-exposed,4 week,4,f9,schisto,5,14.6,,10
+Co-exposed,4 week,4,f47,coinfected,5,11.6,,11
+Co-exposed,4 week,4,f9,schisto,10,16,,11
+Co-exposed,4 week,4,f9,schisto,13,16.1,,11
+Co-exposed,4 week,4,f10,schisto,13,14.7,,12
+Co-exposed,4 week,4,f38,schisto,13,16.7,,12
+Co-exposed,4 week,4,f9,schisto,11,16,,12
+Co-exposed,4 week,4,f16,schisto,5,15.9,,13
+Co-exposed,4 week,4,f47,coinfected,6,11.7,,13
+Co-exposed,4 week,4,f26,schisto,5,16.8,,14
+Co-exposed,4 week,4,f45,schisto,15,16.7,,14
+Co-exposed,4 week,4,f6,schisto,6,13.2,,14
+Co-exposed,4 week,4,f14,schisto,10,16,,15
+Co-exposed,4 week,4,f16,schisto,11,17.1,,15
+Co-exposed,4 week,4,f17,schisto,6,11.7,,15
+Co-exposed,4 week,4,f27,schisto,13,18.1,,15
+Co-exposed,4 week,4,f44,schisto,10,16.6,,15
+Co-exposed,4 week,4,f11,schisto,14,14.9,,16
+Co-exposed,4 week,4,f16,schisto,10,17,,16
+Co-exposed,4 week,4,f17,schisto,15,13.6,,16
+Co-exposed,4 week,4,f14,schisto,11,16.2,,18
+Co-exposed,4 week,4,f42,coinfected,15,16.7,,18
+Co-exposed,4 week,4,f13,schisto,14,14.3,,19
+Co-exposed,4 week,4,f32,schisto,10,14.3,,19
+Co-exposed,4 week,4,f7,schisto,12,16.4,,19
+Co-exposed,4 week,4,f14,schisto,12,16.1,,20
+Co-exposed,4 week,4,f45,schisto,10,16.5,,21
+Co-exposed,4 week,4,f45,schisto,16,16.5,,21
+Co-exposed,4 week,4,f16,schisto,8,16.7,,22
+Co-exposed,4 week,4,f22,schisto,11,14.8,,22
+Co-exposed,4 week,4,f26,schisto,6,17.7,,22
+Co-exposed,4 week,4,f7,schisto,15,16.7,,22
+Co-exposed,4 week,4,f13,schisto,10,14.1,,23
+Co-exposed,4 week,4,f23,schisto,9,13.2,,23
+Co-exposed,4 week,4,f44,schisto,11,16.6,,23
+Co-exposed,4 week,4,f7,schisto,10,16.3,,24
+Co-exposed,4 week,4,f21,coinfected,11,16.8,,25
+Co-exposed,4 week,4,f35,schisto,15,17.1,,25
+Co-exposed,4 week,4,f13,schisto,5,13.4,,26
+Co-exposed,4 week,4,f28,coinfected,5,16.1,,26
+Co-exposed,4 week,4,f50,schisto,5,15.6,,26
+Co-exposed,4 week,4,f36,schisto,6,17.3,,28
+Co-exposed,4 week,4,f45,schisto,9,16.2,,28
+Co-exposed,4 week,4,f14,schisto,5,14.4,,29
+Co-exposed,4 week,4,f23,schisto,6,13.1,,29
+Co-exposed,4 week,4,f9,schisto,12,16.1,,29
+Co-exposed,4 week,4,f28,coinfected,11,16.9,,30
+Co-exposed,4 week,4,f16,schisto,6,16.3,,32
+Co-exposed,4 week,4,f23,schisto,10,13.1,,32
+Co-exposed,4 week,4,f35,schisto,5,15.1,,32
+Co-exposed,4 week,4,f35,schisto,16,17.9,,32
+Co-exposed,4 week,4,f45,schisto,6,16.2,,32
+Co-exposed,4 week,4,f18,schisto,6,15,,33
+Co-exposed,4 week,4,f26,schisto,9,17.9,,33
+Co-exposed,4 week,4,f28,coinfected,8,17.1,,33
+Co-exposed,4 week,4,f7,schisto,16,16.5,,33
+Co-exposed,4 week,4,f18,schisto,5,14.1,,35
+Co-exposed,4 week,4,f23,schisto,5,13.1,,35
+Co-exposed,4 week,4,f45,schisto,8,16.2,,35
+Co-exposed,4 week,4,f47,coinfected,10,12.4,,35
+Co-exposed,4 week,4,f21,coinfected,10,17,,36
+Co-exposed,4 week,4,f26,schisto,11,17.9,,36
+Co-exposed,4 week,4,f32,schisto,5,12.8,,36
+Co-exposed,4 week,4,f47,coinfected,8,12.2,,36
+Co-exposed,4 week,4,f33,coinfected,10,17.1,,37
+Co-exposed,4 week,4,f45,schisto,13,16.6,,37
+Co-exposed,4 week,4,f11,schisto,11,14.6,,38
+Co-exposed,4 week,4,f39,coinfected,10,14.5,,38
+Co-exposed,4 week,4,f45,schisto,12,16.6,,38
+Co-exposed,4 week,4,f10,schisto,6,14,,39
+Co-exposed,4 week,4,f10,schisto,10,14.6,,39
+Co-exposed,4 week,4,f32,schisto,6,13.1,,39
+Co-exposed,4 week,4,f35,schisto,11,16.5,,39
+Co-exposed,4 week,4,f41,schisto,10,17.5,,40
+Co-exposed,4 week,4,f45,schisto,11,16.5,,40
+Co-exposed,4 week,4,f47,coinfected,9,12.4,,40
+Co-exposed,4 week,4,f41,schisto,11,17.4,,41
+Co-exposed,4 week,4,f7,schisto,11,16.5,,42
+Co-exposed,4 week,4,f9,schisto,6,14.8,,42
+Co-exposed,4 week,4,f13,schisto,13,14.3,,43
+Co-exposed,4 week,4,f18,schisto,10,15.8,,43
+Co-exposed,4 week,4,f12,schisto,16,16.1,,44
+Co-exposed,4 week,4,f27,schisto,5,17,,44
+Co-exposed,4 week,4,f10,schisto,11,14.7,,45
+Co-exposed,4 week,4,f16,schisto,9,16.9,,45
+Co-exposed,4 week,4,f24,schisto,5,13.9,,45
+Co-exposed,4 week,4,f4,schisto,13,17.9,,45
+Co-exposed,4 week,4,f16,schisto,7,16.6,,46
+Co-exposed,4 week,4,f36,schisto,11,18,,46
+Co-exposed,4 week,4,f7,schisto,6,15.8,,46
+Co-exposed,4 week,4,f12,schisto,15,16.2,,47
+Co-exposed,4 week,4,f44,schisto,7,16.3,,47
+Co-exposed,4 week,4,f9,schisto,7,15.4,,47
+Co-exposed,4 week,4,f41,schisto,5,16.5,,48
+Co-exposed,4 week,4,f22,schisto,6,14.5,,49
+Co-exposed,4 week,4,f22,schisto,10,14.8,,49
+Co-exposed,4 week,4,f27,schisto,10,18,,49
+Co-exposed,4 week,4,f33,coinfected,9,17,,49
+Co-exposed,4 week,4,f39,coinfected,8,14.1,,49
+Co-exposed,4 week,4,f7,schisto,14,16.6,,49
+Co-exposed,4 week,4,f12,schisto,11,15.7,,50
+Co-exposed,4 week,4,f4,schisto,12,17.9,,50
+Co-exposed,4 week,4,f27,schisto,12,18,,51
+Co-exposed,4 week,4,f12,schisto,12,15.8,,52
+Co-exposed,4 week,4,f38,schisto,9,16.2,,52
+Co-exposed,4 week,4,f4,schisto,14,18,,52
+Co-exposed,4 week,4,f45,schisto,14,16.7,,52
+Co-exposed,4 week,4,f10,schisto,8,14.2,,53
+Co-exposed,4 week,4,f32,schisto,12,14.6,,53
+Co-exposed,4 week,4,f36,schisto,10,18.1,,53
+Co-exposed,4 week,4,f44,schisto,6,15.9,,53
+Co-exposed,4 week,4,f17,schisto,14,13.5,,54
+Co-exposed,4 week,4,f4,schisto,5,17.1,,54
+Co-exposed,4 week,4,f42,coinfected,5,15.6,,54
+Co-exposed,4 week,4,f7,schisto,9,16.3,,54
+Co-exposed,4 week,4,f10,schisto,12,14.7,,55
+Co-exposed,4 week,4,f36,schisto,16,18.1,,55
+Co-exposed,4 week,4,f6,schisto,11,13.4,,55
+Co-exposed,4 week,4,f10,schisto,9,14.3,,56
+Co-exposed,4 week,4,f39,coinfected,5,12.8,,56
+Co-exposed,4 week,4,f41,schisto,12,17.4,,57
+Co-exposed,4 week,4,f17,schisto,13,13.5,,58
+Co-exposed,4 week,4,f33,coinfected,5,15.9,,58
+Co-exposed,4 week,4,f4,schisto,11,17.8,,58
+Co-exposed,4 week,4,f42,coinfected,6,15.9,,58
+Co-exposed,4 week,4,f42,coinfected,14,16.7,,58
+Co-exposed,4 week,4,f12,schisto,10,15.5,,59
+Co-exposed,4 week,4,f11,schisto,12,14.8,,60
+Co-exposed,4 week,4,f18,schisto,8,15.5,,61
+Co-exposed,4 week,4,f26,schisto,8,18,,61
+Co-exposed,4 week,4,f28,coinfected,10,17,,61
+Co-exposed,4 week,4,f33,coinfected,11,17.1,,61
+Co-exposed,4 week,4,f44,schisto,9,16.6,,63
+Co-exposed,4 week,4,f9,schisto,9,15.9,,64
+Co-exposed,4 week,4,f28,coinfected,12,16.8,,65
+Co-exposed,4 week,4,f4,schisto,16,18.1,,65
+Co-exposed,4 week,4,f17,schisto,11,13.3,,66
+Co-exposed,4 week,4,f27,schisto,9,17.8,,66
+Co-exposed,4 week,4,f35,schisto,10,16.5,,67
+Co-exposed,4 week,4,f7,schisto,7,16.1,,67
+Co-exposed,4 week,4,f17,schisto,10,12.9,,68
+Co-exposed,4 week,4,f20,schisto,5,14.6,,68
+Co-exposed,4 week,4,f41,schisto,6,17,,68
+Co-exposed,4 week,4,f12,schisto,5,14.7,,69
+Co-exposed,4 week,4,f18,schisto,9,15.5,,69
+Co-exposed,4 week,4,f24,schisto,6,14.4,,69
+Co-exposed,4 week,4,f36,schisto,15,18.1,,69
+Co-exposed,4 week,4,f14,schisto,7,15.3,,70
+Co-exposed,4 week,4,f38,schisto,6,16,,70
+Co-exposed,4 week,4,f6,schisto,7,13.3,,70
+Co-exposed,4 week,4,f13,schisto,6,13.6,,71
+Co-exposed,4 week,4,f17,schisto,7,12,,71
+Co-exposed,4 week,4,f35,schisto,14,16.8,,71
+Co-exposed,4 week,4,f23,schisto,7,13.2,,72
+Co-exposed,4 week,4,f28,coinfected,7,16.9,,72
+Co-exposed,4 week,4,f36,schisto,12,18.1,,72
+Co-exposed,4 week,4,f35,schisto,8,16.2,,73
+Co-exposed,4 week,4,f4,schisto,10,17.8,,73
+Co-exposed,4 week,4,f6,schisto,8,13.3,,73
+Co-exposed,4 week,4,f35,schisto,12,16.4,,74
+Co-exposed,4 week,4,f39,coinfected,7,14,,74
+Co-exposed,4 week,4,f20,schisto,9,15.8,,76
+Co-exposed,4 week,4,f22,schisto,7,14.5,,76
+Co-exposed,4 week,4,f22,schisto,9,14.8,,76
+Co-exposed,4 week,4,f44,schisto,8,16.5,,76
+Co-exposed,4 week,4,f33,coinfected,6,16.6,,77
+Co-exposed,4 week,4,f38,schisto,8,16.1,,77
+Co-exposed,4 week,4,f26,schisto,7,17.9,,78
+Co-exposed,4 week,4,f35,schisto,6,15.7,,78
+Co-exposed,4 week,4,f36,schisto,9,17.9,,78
+Co-exposed,4 week,4,f24,schisto,9,14.6,,79
+Co-exposed,4 week,4,f32,schisto,11,14.6,,79
+Co-exposed,4 week,4,f11,schisto,10,14.6,,80
+Co-exposed,4 week,4,f27,schisto,8,17.8,,81
+Co-exposed,4 week,4,f11,schisto,6,14.2,,82
+Co-exposed,4 week,4,f32,schisto,7,13.5,,82
+Co-exposed,4 week,4,f41,schisto,7,17.2,,83
+Co-exposed,4 week,4,f10,schisto,5,13.8,,84
+Co-exposed,4 week,4,f11,schisto,7,14.4,,85
+Co-exposed,4 week,4,f42,coinfected,12,16.5,,85
+Co-exposed,4 week,4,f6,schisto,12,13.5,,85
+Co-exposed,4 week,4,f27,schisto,6,17.5,,86
+Co-exposed,4 week,4,f4,schisto,8,17.6,,86
+Co-exposed,4 week,4,f22,schisto,5,14.4,,87
+Co-exposed,4 week,4,f14,schisto,6,14.9,,88
+Co-exposed,4 week,4,f36,schisto,13,18,,88
+Co-exposed,4 week,4,f38,schisto,11,16.5,,88
+Co-exposed,4 week,4,f12,schisto,13,15.9,,89
+Co-exposed,4 week,4,f28,coinfected,6,16.5,,89
+Co-exposed,4 week,4,f4,schisto,6,17.4,,89
+Co-exposed,4 week,4,f45,schisto,7,16.2,,89
+Co-exposed,4 week,4,f20,schisto,8,15.6,,90
+Co-exposed,4 week,4,f38,schisto,12,16.6,,90
+Co-exposed,4 week,4,f7,schisto,13,16.5,,90
+Co-exposed,4 week,4,f14,schisto,9,15.7,,91
+Co-exposed,4 week,4,f38,schisto,7,15.9,,91
+Co-exposed,4 week,4,f50,schisto,6,16.1,,91
+Co-exposed,4 week,4,f10,schisto,7,14.1,,92
+Co-exposed,4 week,4,f20,schisto,7,15.5,,92
+Co-exposed,4 week,4,f21,coinfected,5,15.6,,92
+Co-exposed,4 week,4,f6,schisto,10,13.4,,93
+Co-exposed,4 week,4,f9,schisto,8,15.8,,93
+Co-exposed,4 week,4,f12,schisto,6,15.3,,94
+Co-exposed,4 week,4,f41,schisto,8,17.3,,94
+Co-exposed,4 week,4,f17,schisto,9,12.7,,95
+Co-exposed,4 week,4,f22,schisto,8,14.7,,95
+Co-exposed,4 week,4,f35,schisto,9,16.2,,95
+Co-exposed,4 week,4,f13,schisto,7,13.9,,96
+Co-exposed,4 week,4,f24,schisto,7,14.5,,97
+Co-exposed,4 week,4,f27,schisto,7,17.7,,97
+Co-exposed,4 week,4,f23,schisto,8,13.1,,98
+Co-exposed,4 week,4,f28,coinfected,9,17,,98
+Co-exposed,4 week,4,f36,schisto,14,18.1,,98
+Co-exposed,4 week,4,f12,schisto,14,16.2,,99
+Co-exposed,4 week,4,f47,coinfected,7,12.2,,100
+Co-exposed,4 week,4,f18,schisto,7,15.4,,102
+Co-exposed,4 week,4,f39,coinfected,9,14.2,,104
+Co-exposed,4 week,4,f33,coinfected,8,17,,106
+Co-exposed,4 week,4,f36,schisto,8,17.8,,106
+Co-exposed,4 week,4,f42,coinfected,11,16.6,,107
+Co-exposed,4 week,4,f6,schisto,14,13.7,,107
+Co-exposed,4 week,4,f42,coinfected,13,16.6,,108
+Co-exposed,4 week,4,f6,schisto,9,13.3,,109
+Co-exposed,4 week,4,f32,schisto,9,14,,110
+Co-exposed,4 week,4,f42,coinfected,8,16.4,,110
+Co-exposed,4 week,4,f6,schisto,13,13.5,,112
+Co-exposed,4 week,4,f20,schisto,6,15.2,,113
+Co-exposed,4 week,4,f39,coinfected,6,13.6,,113
+Co-exposed,4 week,4,f5,schisto,7,15.9,,113
+Co-exposed,4 week,4,f24,schisto,8,14.6,,114
+Co-exposed,4 week,4,f21,coinfected,9,16.3,,115
+Co-exposed,4 week,4,f4,schisto,7,17.5,,115
+Co-exposed,4 week,4,f17,schisto,8,12.4,,117
+Co-exposed,4 week,4,f17,schisto,12,13.5,,118
+Co-exposed,4 week,4,f21,coinfected,8,16.6,,119
+Co-exposed,4 week,4,f13,schisto,8,14.1,,123
+Co-exposed,4 week,4,f36,schisto,7,17.6,,128
+Co-exposed,4 week,4,f35,schisto,7,16.1,,129
+Co-exposed,4 week,4,f42,coinfected,7,16.3,,129
+Co-exposed,4 week,4,f33,coinfected,7,16.8,,130
+Co-exposed,4 week,4,f38,schisto,5,15.5,,131
+Co-exposed,4 week,4,f11,schisto,9,14.7,,132
+Co-exposed,4 week,4,f14,schisto,8,15.5,,132
+Co-exposed,4 week,4,f4,schisto,9,17.7,,132
+Co-exposed,4 week,4,f11,schisto,8,14.6,,136
+Co-exposed,4 week,4,f12,schisto,9,15.7,,137
+Co-exposed,4 week,4,f21,coinfected,6,16,,139
+Co-exposed,4 week,4,f32,schisto,8,13.7,,139
+Co-exposed,4 week,4,f41,schisto,9,17.3,,143
+Co-exposed,4 week,4,f12,schisto,8,15.6,,145
+Co-exposed,4 week,4,f35,schisto,13,16.8,,145
+Co-exposed,4 week,4,f11,schisto,13,14.7,,148
+Co-exposed,4 week,4,f7,schisto,8,16.2,,151
+Co-exposed,4 week,4,f42,coinfected,10,16.7,,174
+Co-exposed,4 week,4,f13,schisto,9,14.2,,183
+Co-exposed,4 week,4,f13,schisto,12,14.1,,185
+Co-exposed,4 week,4,f5,schisto,6,15.7,,196
+Co-exposed,4 week,4,f12,schisto,7,15.5,,204
+Co-exposed,4 week,4,f42,coinfected,9,16.5,,218
+Co-exposed,4 week,4,f21,coinfected,7,16.3,,263
+Co-exposed,4 week,4,f38,schisto,10,16.5,,265
+Co-exposed,6 week,6,x45,coinfected,14,15.1,8,2
+Co-exposed,6 week,6,x13,coinfected,16,16.5,9,
+Co-exposed,6 week,6,x26,coinfected,13,16.1,16,
+Co-exposed,6 week,6,x42,coinfected,15,17,26,2
+Co-exposed,6 week,6,x39,echino,10,14.5,35,
+Co-exposed,6 week,6,x3,echino,11,15.6,36,
+Co-exposed,6 week,6,x45,coinfected,15,15.1,51,
+Co-exposed,6 week,6,x4,echino,11,16.6,58,
+Co-exposed,6 week,6,x37,echino,11,13.2,80,
+Co-exposed,6 week,6,x13,coinfected,15,16.4,87,
+Co-exposed,6 week,6,x17,coinfected,16,16.8,91,
+Co-exposed,6 week,6,x26,coinfected,14,16.4,99,
+Co-exposed,6 week,6,x13,coinfected,14,16.3,108,
+Co-exposed,6 week,6,x10,echino,11,14.7,112,
+Co-exposed,6 week,6,x26,coinfected,15,16.5,121,
+Co-exposed,6 week,6,x35,echino,11,16.1,134,
+Co-exposed,6 week,6,x38,echino,11,13.7,139,
+Co-exposed,6 week,6,x45,coinfected,16,15.7,154,
+Co-exposed,6 week,6,x22,echino,12,20,175,
+Co-exposed,6 week,6,x4,echino,13,18,181,
+Co-exposed,6 week,6,x17,coinfected,17,16.9,209,
+Co-exposed,6 week,6,x48,echino,13,19.6,216,
+Co-exposed,6 week,6,x39,echino,12,15.4,262,
+Co-exposed,6 week,6,x3,echino,12,15.9,294,
+Co-exposed,6 week,6,x4,echino,12,17.4,294,
+Co-exposed,6 week,6,x41,echino,11,16.2,298,
+Co-exposed,6 week,6,x22,echino,14,21,322,
+Co-exposed,6 week,6,x42,coinfected,16,16.8,380,
+Co-exposed,6 week,6,x39,echino,11,14.7,487,
+Co-exposed,6 week,6,x22,echino,13,20.4,493,
+Co-exposed,6 week,6,x9,schisto,15,16.6,,1
+Co-exposed,6 week,6,x15,schisto,16,16.9,,3
+Co-exposed,6 week,6,x34,schisto,5,14.3,,3
+Co-exposed,6 week,6,x42,coinfected,14,16.7,,3
+Co-exposed,6 week,6,x25,schisto,16,16.8,,5
+Co-exposed,6 week,6,x42,coinfected,5,14.9,,6
+Co-exposed,6 week,6,x34,schisto,18,17.4,,8
+Co-exposed,6 week,6,x34,schisto,17,17.2,,10
+Co-exposed,6 week,6,x9,schisto,5,15,,10
+Co-exposed,6 week,6,x34,schisto,8,16.2,,13
+Co-exposed,6 week,6,x7,schisto,14,17.2,,13
+Co-exposed,6 week,6,x26,coinfected,12,16.1,,15
+Co-exposed,6 week,6,x34,schisto,15,17,,15
+Co-exposed,6 week,6,x7,schisto,17,17.1,,17
+Co-exposed,6 week,6,x45,coinfected,5,13.9,,18
+Co-exposed,6 week,6,x17,coinfected,13,16.4,,19
+Co-exposed,6 week,6,x2,schisto,17,15.3,,19
+Co-exposed,6 week,6,x25,schisto,18,17.2,,19
+Co-exposed,6 week,6,x34,schisto,9,16.3,,19
+Co-exposed,6 week,6,x34,schisto,16,17,,19
+Co-exposed,6 week,6,x25,schisto,12,16.1,,20
+Co-exposed,6 week,6,x34,schisto,13,16.7,,21
+Co-exposed,6 week,6,x46,schisto,11,17.9,,21
+Co-exposed,6 week,6,x16,schisto,15,17.3,,22
+Co-exposed,6 week,6,x34,schisto,7,15.5,,22
+Co-exposed,6 week,6,x45,coinfected,12,15.1,,22
+Co-exposed,6 week,6,x46,schisto,5,16.2,,22
+Co-exposed,6 week,6,x42,coinfected,11,16.3,,23
+Co-exposed,6 week,6,x13,coinfected,9,16.3,,24
+Co-exposed,6 week,6,x15,schisto,15,16.8,,24
+Co-exposed,6 week,6,x16,schisto,12,17.2,,24
+Co-exposed,6 week,6,x18,schisto,11,13,,24
+Co-exposed,6 week,6,x2,schisto,18,15.3,,24
+Co-exposed,6 week,6,x21,schisto,14,15.4,,24
+Co-exposed,6 week,6,x42,coinfected,8,16,,24
+Co-exposed,6 week,6,x2,schisto,9,14.9,,26
+Co-exposed,6 week,6,x34,schisto,6,15,,26
+Co-exposed,6 week,6,x7,schisto,18,17.5,,26
+Co-exposed,6 week,6,x31,schisto,5,17,,29
+Co-exposed,6 week,6,x7,schisto,13,17,,29
+Co-exposed,6 week,6,x34,schisto,12,16.9,,30
+Co-exposed,6 week,6,x34,schisto,11,16.6,,31
+Co-exposed,6 week,6,x34,schisto,14,16.7,,31
+Co-exposed,6 week,6,x31,schisto,10,17.4,,32
+Co-exposed,6 week,6,x42,coinfected,13,16.6,,32
+Co-exposed,6 week,6,x7,schisto,16,17.3,,32
+Co-exposed,6 week,6,x17,coinfected,14,16.7,,35
+Co-exposed,6 week,6,x45,coinfected,9,15.1,,36
+Co-exposed,6 week,6,x2,schisto,10,14.9,,37
+Co-exposed,6 week,6,x2,schisto,16,15.3,,37
+Co-exposed,6 week,6,x42,coinfected,10,16.4,,37
+Co-exposed,6 week,6,x7,schisto,12,16.8,,37
+Co-exposed,6 week,6,x32,schisto,7,16.4,,39
+Co-exposed,6 week,6,x15,schisto,12,16.7,,41
+Co-exposed,6 week,6,x2,schisto,14,15,,42
+Co-exposed,6 week,6,x18,schisto,5,12.3,,43
+Co-exposed,6 week,6,x9,schisto,12,16.5,,43
+Co-exposed,6 week,6,x2,schisto,11,14.9,,46
+Co-exposed,6 week,6,x9,schisto,14,16.7,,47
+Co-exposed,6 week,6,x42,coinfected,12,16.7,,48
+Co-exposed,6 week,6,x16,schisto,11,17.2,,49
+Co-exposed,6 week,6,x25,schisto,14,16.8,,49
+Co-exposed,6 week,6,x15,schisto,9,16.5,,50
+Co-exposed,6 week,6,x17,coinfected,12,16.5,,51
+Co-exposed,6 week,6,x18,schisto,10,13,,51
+Co-exposed,6 week,6,x26,coinfected,5,14.4,,51
+Co-exposed,6 week,6,x18,schisto,13,13.2,,52
+Co-exposed,6 week,6,x42,coinfected,9,16.2,,52
+Co-exposed,6 week,6,x9,schisto,9,16.5,,52
+Co-exposed,6 week,6,x26,coinfected,6,15.5,,54
+Co-exposed,6 week,6,x26,coinfected,7,15.8,,54
+Co-exposed,6 week,6,x42,coinfected,6,15.6,,54
+Co-exposed,6 week,6,x31,schisto,8,17.4,,55
+Co-exposed,6 week,6,x7,schisto,15,17.4,,56
+Co-exposed,6 week,6,x45,coinfected,7,14.9,,57
+Co-exposed,6 week,6,x2,schisto,13,15,,58
+Co-exposed,6 week,6,x17,coinfected,7,16.9,,61
+Co-exposed,6 week,6,x18,schisto,9,12.8,,61
+Co-exposed,6 week,6,x31,schisto,7,17.4,,61
+Co-exposed,6 week,6,x9,schisto,10,16.5,,61
+Co-exposed,6 week,6,x34,schisto,10,16.4,,62
+Co-exposed,6 week,6,x16,schisto,14,17.2,,63
+Co-exposed,6 week,6,x18,schisto,14,13.2,,63
+Co-exposed,6 week,6,x26,coinfected,11,16,,64
+Co-exposed,6 week,6,x9,schisto,13,16.6,,65
+Co-exposed,6 week,6,x25,schisto,5,14.7,,66
+Co-exposed,6 week,6,x45,coinfected,11,14.9,,66
+Co-exposed,6 week,6,x9,schisto,8,16.4,,68
+Co-exposed,6 week,6,x9,schisto,11,16.6,,68
+Co-exposed,6 week,6,x13,coinfected,11,16.2,,69
+Co-exposed,6 week,6,x2,schisto,7,14.7,,69
+Co-exposed,6 week,6,x26,coinfected,9,16,,69
+Co-exposed,6 week,6,x25,schisto,11,16.2,,71
+Co-exposed,6 week,6,x26,coinfected,10,16.1,,71
+Co-exposed,6 week,6,x7,schisto,5,15.8,,71
+Co-exposed,6 week,6,x7,schisto,10,17,,71
+Co-exposed,6 week,6,x18,schisto,6,12.5,,72
+Co-exposed,6 week,6,x2,schisto,12,14.9,,72
+Co-exposed,6 week,6,x25,schisto,10,15.9,,72
+Co-exposed,6 week,6,x25,schisto,13,16.7,,72
+Co-exposed,6 week,6,x46,schisto,10,18,,72
+Co-exposed,6 week,6,x11,schisto,5,13.3,,74
+Co-exposed,6 week,6,x45,coinfected,8,14.9,,74
+Co-exposed,6 week,6,x18,schisto,8,12.8,,75
+Co-exposed,6 week,6,x15,schisto,14,16.8,,76
+Co-exposed,6 week,6,x13,coinfected,10,16,,79
+Co-exposed,6 week,6,x25,schisto,17,17.1,,79
+Co-exposed,6 week,6,x42,coinfected,7,15.6,,79
+Co-exposed,6 week,6,x15,schisto,5,16.3,,80
+Co-exposed,6 week,6,x2,schisto,8,15,,80
+Co-exposed,6 week,6,x16,schisto,9,17.2,,81
+Co-exposed,6 week,6,x7,schisto,9,16.9,,81
+Co-exposed,6 week,6,x7,schisto,11,16.9,,82
+Co-exposed,6 week,6,x16,schisto,13,17.3,,83
+Co-exposed,6 week,6,x2,schisto,15,15.1,,83
+Co-exposed,6 week,6,x30,schisto,9,16.2,,83
+Co-exposed,6 week,6,x46,schisto,7,17.5,,83
+Co-exposed,6 week,6,x32,schisto,5,15.9,,84
+Co-exposed,6 week,6,x17,coinfected,11,16.3,,86
+Co-exposed,6 week,6,x45,coinfected,10,14.8,,86
+Co-exposed,6 week,6,x25,schisto,7,15.6,,88
+Co-exposed,6 week,6,x32,schisto,6,16.2,,88
+Co-exposed,6 week,6,x43,schisto,7,16.3,,88
+Co-exposed,6 week,6,x25,schisto,15,17.1,,89
+Co-exposed,6 week,6,x7,schisto,6,16.2,,89
+Co-exposed,6 week,6,x7,schisto,8,16.9,,91
+Co-exposed,6 week,6,x15,schisto,13,16.7,,92
+Co-exposed,6 week,6,x17,coinfected,8,16.2,,92
+Co-exposed,6 week,6,x25,schisto,6,15.2,,93
+Co-exposed,6 week,6,x26,coinfected,8,16,,93
+Co-exposed,6 week,6,x2,schisto,5,14,,95
+Co-exposed,6 week,6,x15,schisto,11,16.7,,98
+Co-exposed,6 week,6,x13,coinfected,8,16,,101
+Co-exposed,6 week,6,x21,schisto,8,15.3,,103
+Co-exposed,6 week,6,x30,schisto,7,15.9,,103
+Co-exposed,6 week,6,x25,schisto,9,16,,105
+Co-exposed,6 week,6,x30,schisto,8,16.1,,105
+Co-exposed,6 week,6,x46,schisto,9,18,,105
+Co-exposed,6 week,6,x18,schisto,12,13.1,,106
+Co-exposed,6 week,6,x18,schisto,7,12.7,,108
+Co-exposed,6 week,6,x46,schisto,8,17.7,,108
+Co-exposed,6 week,6,x43,schisto,9,16.8,,109
+Co-exposed,6 week,6,x19,schisto,5,13.1,,111
+Co-exposed,6 week,6,x21,schisto,11,15.2,,112
+Co-exposed,6 week,6,x21,schisto,9,15.4,,114
+Co-exposed,6 week,6,x30,schisto,5,15.3,,117
+Co-exposed,6 week,6,x31,schisto,9,17.4,,118
+Co-exposed,6 week,6,x21,schisto,5,15.5,,119
+Co-exposed,6 week,6,x15,schisto,10,16.6,,122
+Co-exposed,6 week,6,x17,coinfected,9,16.1,,126
+Co-exposed,6 week,6,x25,schisto,8,15.7,,128
+Co-exposed,6 week,6,x16,schisto,5,15.4,,132
+Co-exposed,6 week,6,x2,schisto,6,14.5,,136
+Co-exposed,6 week,6,x16,schisto,8,17.1,,137
+Co-exposed,6 week,6,x45,coinfected,6,14.8,,139
+Co-exposed,6 week,6,x21,schisto,13,15.5,,140
+Co-exposed,6 week,6,x17,coinfected,10,16.3,,142
+Co-exposed,6 week,6,x9,schisto,7,16.4,,144
+Co-exposed,6 week,6,x43,schisto,8,16.5,,152
+Co-exposed,6 week,6,x16,schisto,10,17.2,,155
+Co-exposed,6 week,6,x21,schisto,10,15.4,,155
+Co-exposed,6 week,6,x16,schisto,7,16.9,,159
+Co-exposed,6 week,6,x17,coinfected,5,15.6,,159
+Co-exposed,6 week,6,x9,schisto,6,16,,159
+Co-exposed,6 week,6,x13,coinfected,7,15.7,,166
+Co-exposed,6 week,6,x21,schisto,7,15.2,,171
+Co-exposed,6 week,6,x11,schisto,9,14.5,,175
+Co-exposed,6 week,6,x46,schisto,6,16.9,,178
+Co-exposed,6 week,6,x43,schisto,5,16,,180
+Co-exposed,6 week,6,x11,schisto,7,14.3,,185
+Co-exposed,6 week,6,x15,schisto,8,16.5,,189
+Co-exposed,6 week,6,x15,schisto,7,16.6,,190
+Co-exposed,6 week,6,x7,schisto,7,16.6,,194
+Co-exposed,6 week,6,x11,schisto,8,14.5,,196
+Co-exposed,6 week,6,x13,coinfected,6,15.3,,202
+Co-exposed,6 week,6,x30,schisto,6,15.8,,202
+Co-exposed,6 week,6,x43,schisto,10,16.8,,206
+Co-exposed,6 week,6,x21,schisto,6,14.8,,213
+Co-exposed,6 week,6,x31,schisto,6,17.3,,216
+Co-exposed,6 week,6,x13,coinfected,5,14.7,,218
+Co-exposed,6 week,6,x43,schisto,6,16.2,,232
+Co-exposed,6 week,6,x17,coinfected,6,15.8,,245
+Co-exposed,6 week,6,x15,schisto,6,16.5,,281
+Co-exposed,6 week,6,x16,schisto,6,16.4,,291
+Co-exposed,6 week,6,x11,schisto,6,14.1,,502
+Co-exposed,Simul,0,z35,echino,5,13.6,14,
+Co-exposed,Simul,0,z22,echino,6,12.4,17,
+Co-exposed,Simul,0,z26,echino,6,15,23,
+Co-exposed,Simul,0,z14,coinfected,7,15.2,24,
+Co-exposed,Simul,0,z43,echino,6,13.7,24,
+Co-exposed,Simul,0,z16,echino,6,14.3,55,
+Co-exposed,Simul,0,z18,echino,10,14.7,55,
+Co-exposed,Simul,0,z24,echino,6,13.8,55,
+Co-exposed,Simul,0,z18,echino,9,14.7,57,
+Co-exposed,Simul,0,z18,echino,7,14.5,69,
+Co-exposed,Simul,0,z37,echino,7,14.8,84,
+Co-exposed,Simul,0,z7,echino,6,14.5,84,
+Co-exposed,Simul,0,z1,echino,6,12.2,86,
+Co-exposed,Simul,0,z1,echino,5,12.1,92,
+Co-exposed,Simul,0,z24,echino,5,13,92,
+Co-exposed,Simul,0,z39,echino,8,13.5,94,
+Co-exposed,Simul,0,z39,echino,9,13.7,98,
+Co-exposed,Simul,0,z39,echino,6,13.2,102,
+Co-exposed,Simul,0,z11,echino,5,12.7,104,
+Co-exposed,Simul,0,z43,echino,5,13.5,107,
+Co-exposed,Simul,0,z37,echino,5,13.4,124,
+Co-exposed,Simul,0,z15,echino,5,14.8,128,
+Co-exposed,Simul,0,z39,echino,7,13.4,137,
+Co-exposed,Simul,0,z29,echino,5,12.5,139,
+Co-exposed,Simul,0,z46,echino,6,12.8,140,
+Co-exposed,Simul,0,z16,echino,8,15.5,141,
+Co-exposed,Simul,0,z39,echino,5,12.4,145,
+Co-exposed,Simul,0,z46,echino,5,12.5,146,
+Co-exposed,Simul,0,z26,echino,8,16.7,160,
+Co-exposed,Simul,0,z37,echino,6,14.2,166,
+Co-exposed,Simul,0,z13,echino,5,12.8,179,
+Co-exposed,Simul,0,z18,echino,8,14.6,187,
+Co-exposed,Simul,0,z16,echino,7,15,195,
+Co-exposed,Simul,0,z9,echino,5,12.9,254,
+Co-exposed,Simul,0,z14,coinfected,8,15.6,260,
+Co-exposed,Simul,0,z26,echino,7,15.2,308,
+Co-exposed,Simul,0,z14,coinfected,9,16.1,370,
+Co-exposed,Simul,0,z48,schisto,5,15.9,,3
+Co-exposed,Simul,0,z27,schisto,6,16.3,,6
+Co-exposed,Simul,0,z41,schisto,5,13.6,,6
+Co-exposed,Simul,0,z6,schisto,7,15.6,,6
+Co-exposed,Simul,0,z49,schisto,5,14,,7
+Co-exposed,Simul,0,z49,schisto,7,14.5,,9
+Co-exposed,Simul,0,z49,schisto,6,14.6,,11
+Co-exposed,Simul,0,z30,schisto,5,15.4,,12
+Co-exposed,Simul,0,z50,schisto,5,11.2,,12
+Co-exposed,Simul,0,z30,schisto,6,16.4,,13
+Co-exposed,Simul,0,z40,schisto,9,13.7,,15
+Co-exposed,Simul,0,z28,schisto,6,14.6,,16
+Co-exposed,Simul,0,z40,schisto,10,13.6,,16
+Co-exposed,Simul,0,z10,schisto,11,14.7,,17
+Co-exposed,Simul,0,z30,schisto,12,17.1,,18
+Co-exposed,Simul,0,z45,schisto,7,13.3,,18
+Co-exposed,Simul,0,z49,schisto,8,14.9,,18
+Co-exposed,Simul,0,z50,schisto,7,11.5,,20
+Co-exposed,Simul,0,z6,schisto,8,15.9,,21
+Co-exposed,Simul,0,z30,schisto,8,16.9,,22
+Co-exposed,Simul,0,z30,schisto,11,17.3,,22
+Co-exposed,Simul,0,z27,schisto,7,16.6,,24
+Co-exposed,Simul,0,z2,schisto,9,16,,25
+Co-exposed,Simul,0,z2,schisto,7,15.7,,26
+Co-exposed,Simul,0,z10,schisto,6,13.8,,27
+Co-exposed,Simul,0,z2,schisto,6,15,,28
+Co-exposed,Simul,0,z6,schisto,9,16,,29
+Co-exposed,Simul,0,z30,schisto,9,17,,31
+Co-exposed,Simul,0,z2,schisto,8,15.9,,32
+Co-exposed,Simul,0,z40,schisto,11,13.7,,32
+Co-exposed,Simul,0,z42,schisto,5,15.2,,32
+Co-exposed,Simul,0,z20,schisto,6,16.2,,33
+Co-exposed,Simul,0,z2,schisto,10,16.2,,34
+Co-exposed,Simul,0,z20,schisto,5,15.2,,34
+Co-exposed,Simul,0,z6,schisto,11,16.2,,34
+Co-exposed,Simul,0,z30,schisto,7,16.7,,35
+Co-exposed,Simul,0,z42,schisto,6,15.6,,35
+Co-exposed,Simul,0,z42,schisto,7,16.1,,37
+Co-exposed,Simul,0,z28,schisto,7,15.1,,38
+Co-exposed,Simul,0,z2,schisto,12,16.4,,39
+Co-exposed,Simul,0,z10,schisto,10,14.3,,40
+Co-exposed,Simul,0,z41,schisto,7,14.7,,40
+Co-exposed,Simul,0,z40,schisto,12,13.8,,43
+Co-exposed,Simul,0,z10,schisto,9,14.3,,46
+Co-exposed,Simul,0,z41,schisto,6,14.6,,46
+Co-exposed,Simul,0,z20,schisto,12,17.5,,47
+Co-exposed,Simul,0,z41,schisto,11,15,,47
+Co-exposed,Simul,0,z49,schisto,9,15.2,,48
+Co-exposed,Simul,0,z50,schisto,6,11.3,,49
+Co-exposed,Simul,0,z41,schisto,8,14.8,,50
+Co-exposed,Simul,0,z50,schisto,9,11.7,,50
+Co-exposed,Simul,0,z20,schisto,11,17.3,,51
+Co-exposed,Simul,0,z10,schisto,7,14.2,,52
+Co-exposed,Simul,0,z28,schisto,11,15.8,,52
+Co-exposed,Simul,0,z20,schisto,7,16.6,,54
+Co-exposed,Simul,0,z45,schisto,6,13,,54
+Co-exposed,Simul,0,z20,schisto,10,17,,55
+Co-exposed,Simul,0,z45,schisto,8,13.4,,56
+Co-exposed,Simul,0,z20,schisto,8,16.9,,57
+Co-exposed,Simul,0,z27,schisto,8,16.7,,57
+Co-exposed,Simul,0,z27,schisto,10,16.6,,58
+Co-exposed,Simul,0,z2,schisto,11,16.3,,59
+Co-exposed,Simul,0,z49,schisto,11,15.4,,64
+Co-exposed,Simul,0,z6,schisto,10,16.3,,64
+Co-exposed,Simul,0,z28,schisto,10,15.7,,65
+Co-exposed,Simul,0,z41,schisto,10,14.8,,65
+Co-exposed,Simul,0,z28,schisto,9,15.6,,67
+Co-exposed,Simul,0,z20,schisto,9,17.1,,68
+Co-exposed,Simul,0,z30,schisto,10,16.8,,69
+Co-exposed,Simul,0,z10,schisto,8,14.3,,73
+Co-exposed,Simul,0,z41,schisto,12,14.9,,89
+Co-exposed,Simul,0,z42,schisto,8,16.2,,90
+Co-exposed,Simul,0,z50,schisto,11,12,,91
+Co-exposed,Simul,0,z49,schisto,10,15.3,,92
+Co-exposed,Simul,0,z49,schisto,12,15.4,,92
+Co-exposed,Simul,0,z6,schisto,12,16.3,,92
+Co-exposed,Simul,0,z28,schisto,12,16,,93
+Co-exposed,Simul,0,z50,schisto,8,11.6,,101
+Co-exposed,Simul,0,z27,schisto,9,16.7,,105
+Co-exposed,Simul,0,z42,schisto,11,16.6,,105
+Co-exposed,Simul,0,z42,schisto,12,16.4,,108
+Co-exposed,Simul,0,z28,schisto,8,15.2,,111
+Co-exposed,Simul,0,z41,schisto,9,15,,111
+Co-exposed,Simul,0,z10,schisto,12,14.6,,129
+Co-exposed,Simul,0,z42,schisto,9,16.3,,143
+Co-exposed,Simul,0,z50,schisto,12,12,,157
+Co-exposed,Simul,0,z50,schisto,10,11.8,,167
+Co-exposed,Simul,0,z42,schisto,10,16.4,,187
+Echino,Echino,,e3,echino,5,11.4,2,
+Echino,Echino,,e1,echino,5,12.3,3,
+Echino,Echino,,e43,echino,4,12.2,4,
+Echino,Echino,,e32,echino,4,12.8,6,
+Echino,Echino,,e50,echino,5,11.2,6,
+Echino,Echino,,e24,echino,6,12.5,10,
+Echino,Echino,,e35,echino,5,12.2,10,
+Echino,Echino,,e27,echino,6,14.4,11,
+Echino,Echino,,e46,echino,4,12.1,11,
+Echino,Echino,,e28,echino,6,12.2,12,
+Echino,Echino,,e50,echino,4,11.1,13,
+Echino,Echino,,e26,echino,6,13.8,16,
+Echino,Echino,,e1,echino,7,13.7,20,
+Echino,Echino,,e40,echino,5,13.3,21,
+Echino,Echino,,e3,echino,7,13.5,23,
+Echino,Echino,,e31,echino,5,13.1,24,
+Echino,Echino,,e28,echino,5,12.1,26,
+Echino,Echino,,e3,echino,6,12,26,
+Echino,Echino,,e12,echino,4,12.7,30,
+Echino,Echino,,e19,echino,4,12.2,31,
+Echino,Echino,,e22,echino,4,12,31,
+Echino,Echino,,e31,echino,6,13.6,31,
+Echino,Echino,,e33,echino,4,12.5,32,
+Echino,Echino,,e43,echino,6,14.1,34,
+Echino,Echino,,e23,echino,5,12.7,35,
+Echino,Echino,,e24,echino,5,12,35,
+Echino,Echino,,e33,echino,6,13,37,
+Echino,Echino,,e43,echino,5,13,42,
+Echino,Echino,,e12,echino,6,13.6,45,
+Echino,Echino,,e18,echino,5,13,47,
+Echino,Echino,,e35,echino,6,12.6,49,
+Echino,Echino,,e32,echino,5,13,52,
+Echino,Echino,,e33,echino,5,12.6,58,
+Echino,Echino,,e21,echino,5,13.4,59,
+Echino,Echino,,e27,echino,5,13.4,73,
+Echino,Echino,,e40,echino,6,13.7,76,
+Echino,Echino,,e12,echino,5,13.1,77,
+Echino,Echino,,e19,echino,7,12.5,84,
+Echino,Echino,,e22,echino,7,13.5,84,
+Echino,Echino,,e15,echino,5,12.7,87,
+Echino,Echino,,e21,echino,6,14.3,91,
+Echino,Echino,,e19,echino,6,12.4,105,
+Echino,Echino,,e22,echino,6,13,105,
+Echino,Echino,,e46,echino,5,12.6,118,
+Echino,Echino,,e26,echino,5,12.9,127,
+Echino,Echino,,e1,echino,6,13,134,
+Echino,Echino,,e19,echino,5,12.3,148,
+Echino,Echino,,e22,echino,5,12.3,148,
+Echino,Echino,,e49,echino,5,13.3,263,
+Echino,Echino,,e18,echino,6,14.1,267,
+Schisto,Schisto,,s1,schisto,5,13.5,,48
+Schisto,Schisto,,s1,schisto,6,13.9,,23
+Schisto,Schisto,,s1,schisto,7,14.3,,50
+Schisto,Schisto,,s1,schisto,8,14.4,,30
+Schisto,Schisto,,s1,schisto,9,14.5,,22
+Schisto,Schisto,,s1,schisto,10,14.7,,35
+Schisto,Schisto,,s1,schisto,11,14.9,,84
+Schisto,Schisto,,s1,schisto,12,14.9,,37
+Schisto,Schisto,,s1,schisto,13,14.9,,10
+Schisto,Schisto,,s1,schisto,14,14.9,,32
+Schisto,Schisto,,s10,schisto,5,16.2,,33
+Schisto,Schisto,,s10,schisto,6,16.4,,26
+Schisto,Schisto,,s10,schisto,7,16.8,,83
+Schisto,Schisto,,s10,schisto,8,17.3,,45
+Schisto,Schisto,,s10,schisto,9,17.4,,41
+Schisto,Schisto,,s10,schisto,10,17.7,,27
+Schisto,Schisto,,s10,schisto,11,17.9,,61
+Schisto,Schisto,,s10,schisto,12,18,,47
+Schisto,Schisto,,s10,schisto,13,18.1,,12
+Schisto,Schisto,,s10,schisto,14,18.1,,13
+Schisto,Schisto,,s10,schisto,15,18,,71
+Schisto,Schisto,,s10,schisto,16,18,,54
+Schisto,Schisto,,s10,schisto,17,18,,53
+Schisto,Schisto,,s10,schisto,18,18,,64
+Schisto,Schisto,,s11,schisto,4,13.1,,4
+Schisto,Schisto,,s11,schisto,5,13.4,,26
+Schisto,Schisto,,s11,schisto,6,13.6,,64
+Schisto,Schisto,,s11,schisto,7,13.9,,151
+Schisto,Schisto,,s11,schisto,8,13.9,,64
+Schisto,Schisto,,s11,schisto,9,14,,66
+Schisto,Schisto,,s11,schisto,10,14,,40
+Schisto,Schisto,,s11,schisto,11,14.4,,50
+Schisto,Schisto,,s11,schisto,12,14.5,,72
+Schisto,Schisto,,s11,schisto,13,14.5,,64
+Schisto,Schisto,,s11,schisto,14,14.7,,28
+Schisto,Schisto,,s11,schisto,15,14.6,,47
+Schisto,Schisto,,s11,schisto,16,14.7,,34
+Schisto,Schisto,,s11,schisto,17,14.7,,71
+Schisto,Schisto,,s11,schisto,18,14.8,,65
+Schisto,Schisto,,s13,schisto,5,14.1,,39
+Schisto,Schisto,,s13,schisto,6,14.4,,21
+Schisto,Schisto,,s13,schisto,7,14.6,,49
+Schisto,Schisto,,s13,schisto,8,14.7,,17
+Schisto,Schisto,,s13,schisto,9,14.8,,18
+Schisto,Schisto,,s13,schisto,10,14.9,,30
+Schisto,Schisto,,s13,schisto,11,15.3,,70
+Schisto,Schisto,,s13,schisto,12,15.3,,12
+Schisto,Schisto,,s13,schisto,13,15.4,,16
+Schisto,Schisto,,s13,schisto,14,15.5,,3
+Schisto,Schisto,,s13,schisto,15,15.4,,103
+Schisto,Schisto,,s13,schisto,16,15.5,,43
+Schisto,Schisto,,s13,schisto,17,15.7,,49
+Schisto,Schisto,,s13,schisto,18,15.8,,67
+Schisto,Schisto,,s14,schisto,4,13.7,,8
+Schisto,Schisto,,s14,schisto,5,14.1,,34
+Schisto,Schisto,,s14,schisto,6,14.8,,29
+Schisto,Schisto,,s14,schisto,7,15.4,,71
+Schisto,Schisto,,s14,schisto,8,15.7,,39
+Schisto,Schisto,,s14,schisto,9,15.8,,82
+Schisto,Schisto,,s14,schisto,10,16,,44
+Schisto,Schisto,,s14,schisto,11,16.3,,48
+Schisto,Schisto,,s14,schisto,12,16.4,,56
+Schisto,Schisto,,s14,schisto,13,16.4,,29
+Schisto,Schisto,,s14,schisto,14,16.5,,30
+Schisto,Schisto,,s14,schisto,15,16.5,,81
+Schisto,Schisto,,s14,schisto,16,16.6,,51
+Schisto,Schisto,,s14,schisto,17,16.5,,81
+Schisto,Schisto,,s14,schisto,18,16.5,,108
+Schisto,Schisto,,s15,schisto,5,14.8,,53
+Schisto,Schisto,,s15,schisto,6,15.1,,74
+Schisto,Schisto,,s15,schisto,7,15.5,,122
+Schisto,Schisto,,s15,schisto,8,15.4,,36
+Schisto,Schisto,,s15,schisto,9,15.7,,34
+Schisto,Schisto,,s15,schisto,10,16,,54
+Schisto,Schisto,,s15,schisto,11,16.2,,154
+Schisto,Schisto,,s15,schisto,12,16.3,,44
+Schisto,Schisto,,s15,schisto,13,16.5,,56
+Schisto,Schisto,,s15,schisto,14,16.7,,20
+Schisto,Schisto,,s15,schisto,15,16.7,,65
+Schisto,Schisto,,s15,schisto,16,17.1,,64
+Schisto,Schisto,,s15,schisto,17,17.6,,71
+Schisto,Schisto,,s15,schisto,18,17.8,,88
+Schisto,Schisto,,s16,schisto,5,15,,56
+Schisto,Schisto,,s16,schisto,6,15.3,,107
+Schisto,Schisto,,s16,schisto,7,15.4,,136
+Schisto,Schisto,,s16,schisto,8,15.7,,25
+Schisto,Schisto,,s16,schisto,9,15.5,,48
+Schisto,Schisto,,s16,schisto,10,15.9,,72
+Schisto,Schisto,,s16,schisto,11,16,,127
+Schisto,Schisto,,s16,schisto,12,15.9,,54
+Schisto,Schisto,,s16,schisto,13,15.9,,49
+Schisto,Schisto,,s16,schisto,14,15.9,,20
+Schisto,Schisto,,s16,schisto,15,15.9,,49
+Schisto,Schisto,,s16,schisto,16,15.9,,1
+Schisto,Schisto,,s17,schisto,5,14.1,,48
+Schisto,Schisto,,s17,schisto,6,14.5,,65
+Schisto,Schisto,,s17,schisto,7,15,,144
+Schisto,Schisto,,s17,schisto,8,15.1,,94
+Schisto,Schisto,,s17,schisto,9,15.3,,88
+Schisto,Schisto,,s17,schisto,10,15.2,,90
+Schisto,Schisto,,s17,schisto,11,15.7,,91
+Schisto,Schisto,,s17,schisto,12,15.4,,44
+Schisto,Schisto,,s17,schisto,13,15.4,,4
+Schisto,Schisto,,s18,schisto,5,16.9,,37
+Schisto,Schisto,,s18,schisto,6,17.1,,81
+Schisto,Schisto,,s18,schisto,7,17.4,,86
+Schisto,Schisto,,s18,schisto,8,17.5,,89
+Schisto,Schisto,,s18,schisto,9,17.5,,51
+Schisto,Schisto,,s18,schisto,10,17.7,,43
+Schisto,Schisto,,s18,schisto,11,16.9,,47
+Schisto,Schisto,,s18,schisto,12,18,,78
+Schisto,Schisto,,s18,schisto,13,18.2,,12
+Schisto,Schisto,,s18,schisto,14,18.2,,50
+Schisto,Schisto,,s18,schisto,15,18.1,,86
+Schisto,Schisto,,s18,schisto,16,18.2,,90
+Schisto,Schisto,,s18,schisto,17,18.5,,106
+Schisto,Schisto,,s18,schisto,18,18.2,,103
+Schisto,Schisto,,s19,schisto,5,12.4,,16
+Schisto,Schisto,,s19,schisto,6,12.5,,24
+Schisto,Schisto,,s19,schisto,7,12.7,,94
+Schisto,Schisto,,s19,schisto,8,12.8,,15
+Schisto,Schisto,,s19,schisto,9,12.6,,50
+Schisto,Schisto,,s19,schisto,10,12.9,,22
+Schisto,Schisto,,s19,schisto,11,13.1,,20
+Schisto,Schisto,,s19,schisto,12,13.1,,10
+Schisto,Schisto,,s2,schisto,5,12.7,,17
+Schisto,Schisto,,s2,schisto,6,12.8,,46
+Schisto,Schisto,,s2,schisto,7,12.8,,45
+Schisto,Schisto,,s2,schisto,8,12.9,,17
+Schisto,Schisto,,s20,schisto,5,14.9,,9
+Schisto,Schisto,,s20,schisto,6,15.7,,41
+Schisto,Schisto,,s20,schisto,7,16.2,,105
+Schisto,Schisto,,s20,schisto,8,16.7,,56
+Schisto,Schisto,,s20,schisto,9,16.8,,14
+Schisto,Schisto,,s20,schisto,10,17.1,,13
+Schisto,Schisto,,s20,schisto,11,17.4,,73
+Schisto,Schisto,,s20,schisto,12,17.6,,33
+Schisto,Schisto,,s20,schisto,13,17.5,,39
+Schisto,Schisto,,s20,schisto,14,17.5,,32
+Schisto,Schisto,,s20,schisto,15,17.5,,95
+Schisto,Schisto,,s20,schisto,16,17.5,,57
+Schisto,Schisto,,s20,schisto,17,17.4,,75
+Schisto,Schisto,,s20,schisto,18,17.5,,31
+Schisto,Schisto,,s22,schisto,6,14,,76
+Schisto,Schisto,,s22,schisto,7,14.4,,69
+Schisto,Schisto,,s22,schisto,8,14.5,,21
+Schisto,Schisto,,s22,schisto,9,14.5,,120
+Schisto,Schisto,,s22,schisto,10,14.7,,34
+Schisto,Schisto,,s22,schisto,11,14.7,,62
+Schisto,Schisto,,s22,schisto,12,15.1,,73
+Schisto,Schisto,,s22,schisto,13,15.2,,41
+Schisto,Schisto,,s22,schisto,14,15.4,,28
+Schisto,Schisto,,s22,schisto,15,15.5,,121
+Schisto,Schisto,,s22,schisto,16,15.7,,102
+Schisto,Schisto,,s22,schisto,17,15.8,,110
+Schisto,Schisto,,s22,schisto,18,16,,57
+Schisto,Schisto,,s23,schisto,5,14.2,,14
+Schisto,Schisto,,s23,schisto,6,14.6,,43
+Schisto,Schisto,,s23,schisto,7,15,,74
+Schisto,Schisto,,s23,schisto,8,15.2,,74
+Schisto,Schisto,,s23,schisto,9,15.3,,51
+Schisto,Schisto,,s23,schisto,10,15.6,,39
+Schisto,Schisto,,s23,schisto,11,15.9,,124
+Schisto,Schisto,,s23,schisto,12,16.2,,82
+Schisto,Schisto,,s23,schisto,13,16.3,,58
+Schisto,Schisto,,s23,schisto,14,16.3,,13
+Schisto,Schisto,,s23,schisto,15,16.4,,94
+Schisto,Schisto,,s23,schisto,16,16.4,,84
+Schisto,Schisto,,s23,schisto,17,16.6,,54
+Schisto,Schisto,,s23,schisto,18,16.6,,126
+Schisto,Schisto,,s24,schisto,5,14.6,,19
+Schisto,Schisto,,s24,schisto,6,15.2,,66
+Schisto,Schisto,,s24,schisto,7,15.6,,78
+Schisto,Schisto,,s24,schisto,8,15.8,,49
+Schisto,Schisto,,s24,schisto,9,15.8,,20
+Schisto,Schisto,,s24,schisto,10,16,,25
+Schisto,Schisto,,s24,schisto,11,16.2,,48
+Schisto,Schisto,,s24,schisto,12,16.3,,67
+Schisto,Schisto,,s24,schisto,13,16.5,,28
+Schisto,Schisto,,s24,schisto,14,16.7,,37
+Schisto,Schisto,,s24,schisto,15,16.8,,134
+Schisto,Schisto,,s24,schisto,16,17.1,,56
+Schisto,Schisto,,s24,schisto,17,17.3,,82
+Schisto,Schisto,,s24,schisto,18,17.5,,83
+Schisto,Schisto,,s25,schisto,5,15.8,,57
+Schisto,Schisto,,s25,schisto,6,16.3,,110
+Schisto,Schisto,,s25,schisto,7,16.8,,166
+Schisto,Schisto,,s25,schisto,8,16.9,,40
+Schisto,Schisto,,s25,schisto,9,16.8,,21
+Schisto,Schisto,,s25,schisto,10,17.2,,71
+Schisto,Schisto,,s25,schisto,11,17.4,,106
+Schisto,Schisto,,s25,schisto,12,17.4,,94
+Schisto,Schisto,,s25,schisto,13,17.5,,76
+Schisto,Schisto,,s25,schisto,14,17.7,,103
+Schisto,Schisto,,s25,schisto,15,17.6,,103
+Schisto,Schisto,,s25,schisto,16,17.7,,119
+Schisto,Schisto,,s25,schisto,17,17.6,,113
+Schisto,Schisto,,s25,schisto,18,17.7,,127
+Schisto,Schisto,,s26,schisto,5,16.1,,95
+Schisto,Schisto,,s26,schisto,6,16.3,,71
+Schisto,Schisto,,s26,schisto,7,16.6,,137
+Schisto,Schisto,,s26,schisto,8,16.8,,26
+Schisto,Schisto,,s26,schisto,9,16.7,,30
+Schisto,Schisto,,s26,schisto,10,16.9,,32
+Schisto,Schisto,,s26,schisto,11,17.1,,74
+Schisto,Schisto,,s26,schisto,12,17.2,,100
+Schisto,Schisto,,s26,schisto,13,17.3,,49
+Schisto,Schisto,,s26,schisto,14,17.3,,19
+Schisto,Schisto,,s26,schisto,15,17.3,,76
+Schisto,Schisto,,s26,schisto,16,17.5,,57
+Schisto,Schisto,,s26,schisto,17,17.6,,107
+Schisto,Schisto,,s26,schisto,18,17.7,,123
+Schisto,Schisto,,s27,schisto,5,14.1,,69
+Schisto,Schisto,,s27,schisto,6,14.8,,76
+Schisto,Schisto,,s27,schisto,7,15,,89
+Schisto,Schisto,,s27,schisto,8,15,,93
+Schisto,Schisto,,s27,schisto,9,14.9,,52
+Schisto,Schisto,,s27,schisto,10,15,,50
+Schisto,Schisto,,s27,schisto,11,15,,41
+Schisto,Schisto,,s28,schisto,5,13.3,,68
+Schisto,Schisto,,s28,schisto,6,13.5,,26
+Schisto,Schisto,,s28,schisto,7,13.6,,62
+Schisto,Schisto,,s28,schisto,8,13.6,,40
+Schisto,Schisto,,s28,schisto,9,13.3,,32
+Schisto,Schisto,,s28,schisto,10,13.6,,67
+Schisto,Schisto,,s28,schisto,11,13.6,,54
+Schisto,Schisto,,s28,schisto,12,13.8,,28
+Schisto,Schisto,,s28,schisto,13,13.7,,24
+Schisto,Schisto,,s29,schisto,5,16.8,,10
+Schisto,Schisto,,s29,schisto,6,17.4,,43
+Schisto,Schisto,,s29,schisto,7,18.1,,44
+Schisto,Schisto,,s29,schisto,8,18.5,,1
+Schisto,Schisto,,s31,schisto,5,15.3,,1
+Schisto,Schisto,,s31,schisto,6,15.9,,105
+Schisto,Schisto,,s31,schisto,7,16.2,,35
+Schisto,Schisto,,s31,schisto,8,16.3,,79
+Schisto,Schisto,,s31,schisto,9,16.3,,67
+Schisto,Schisto,,s31,schisto,10,16.5,,37
+Schisto,Schisto,,s31,schisto,11,16.5,,92
+Schisto,Schisto,,s31,schisto,12,16.7,,65
+Schisto,Schisto,,s31,schisto,13,16.8,,25
+Schisto,Schisto,,s31,schisto,14,16.8,,24
+Schisto,Schisto,,s31,schisto,15,16.9,,77
+Schisto,Schisto,,s31,schisto,16,17,,46
+Schisto,Schisto,,s31,schisto,17,17.1,,87
+Schisto,Schisto,,s31,schisto,18,17.2,,129
+Schisto,Schisto,,s32,schisto,5,14.7,,79
+Schisto,Schisto,,s32,schisto,6,14.9,,22
+Schisto,Schisto,,s32,schisto,7,15,,42
+Schisto,Schisto,,s32,schisto,8,15,,75
+Schisto,Schisto,,s32,schisto,9,14.8,,23
+Schisto,Schisto,,s32,schisto,10,15.1,,50
+Schisto,Schisto,,s32,schisto,11,15.2,,74
+Schisto,Schisto,,s32,schisto,12,15.1,,44
+Schisto,Schisto,,s32,schisto,13,15.3,,6
+Schisto,Schisto,,s33,schisto,5,15.4,,49
+Schisto,Schisto,,s33,schisto,6,15.5,,28
+Schisto,Schisto,,s33,schisto,7,15.9,,54
+Schisto,Schisto,,s33,schisto,8,16.2,,28
+Schisto,Schisto,,s33,schisto,9,15.9,,26
+Schisto,Schisto,,s33,schisto,10,16.6,,45
+Schisto,Schisto,,s33,schisto,11,16.6,,48
+Schisto,Schisto,,s33,schisto,12,16.6,,39
+Schisto,Schisto,,s33,schisto,13,16.6,,12
+Schisto,Schisto,,s33,schisto,14,16.7,,3
+Schisto,Schisto,,s33,schisto,15,16.6,,32
+Schisto,Schisto,,s34,schisto,5,15.9,,17
+Schisto,Schisto,,s34,schisto,6,16.4,,56
+Schisto,Schisto,,s34,schisto,7,16.7,,80
+Schisto,Schisto,,s34,schisto,8,16.9,,78
+Schisto,Schisto,,s34,schisto,9,16.9,,54
+Schisto,Schisto,,s34,schisto,10,17.3,,97
+Schisto,Schisto,,s34,schisto,11,17.4,,111
+Schisto,Schisto,,s34,schisto,12,17.6,,104
+Schisto,Schisto,,s34,schisto,13,17.7,,46
+Schisto,Schisto,,s34,schisto,14,17.8,,18
+Schisto,Schisto,,s34,schisto,15,17.8,,126
+Schisto,Schisto,,s34,schisto,16,18,,73
+Schisto,Schisto,,s34,schisto,17,18.1,,91
+Schisto,Schisto,,s34,schisto,18,18.3,,53
+Schisto,Schisto,,s35,schisto,5,14.7,,43
+Schisto,Schisto,,s35,schisto,6,15.1,,35
+Schisto,Schisto,,s35,schisto,7,15.3,,59
+Schisto,Schisto,,s35,schisto,8,15.6,,79
+Schisto,Schisto,,s35,schisto,9,15.6,,19
+Schisto,Schisto,,s35,schisto,10,15.6,,30
+Schisto,Schisto,,s35,schisto,11,15.7,,43
+Schisto,Schisto,,s35,schisto,12,16,,76
+Schisto,Schisto,,s35,schisto,13,16,,33
+Schisto,Schisto,,s35,schisto,14,16.2,,29
+Schisto,Schisto,,s35,schisto,15,16.2,,94
+Schisto,Schisto,,s35,schisto,16,16.3,,4
+Schisto,Schisto,,s35,schisto,17,16.4,,125
+Schisto,Schisto,,s36,schisto,5,13.8,,96
+Schisto,Schisto,,s36,schisto,6,14.2,,57
+Schisto,Schisto,,s36,schisto,7,14.4,,128
+Schisto,Schisto,,s36,schisto,8,14.5,,75
+Schisto,Schisto,,s36,schisto,9,14.3,,55
+Schisto,Schisto,,s36,schisto,10,14.8,,52
+Schisto,Schisto,,s36,schisto,11,14.9,,120
+Schisto,Schisto,,s36,schisto,12,15.1,,48
+Schisto,Schisto,,s36,schisto,13,14.8,,36
+Schisto,Schisto,,s36,schisto,14,15.3,,14
+Schisto,Schisto,,s36,schisto,15,15.3,,97
+Schisto,Schisto,,s36,schisto,16,15.3,,4
+Schisto,Schisto,,s36,schisto,17,15.2,,60
+Schisto,Schisto,,s39,schisto,5,14.7,,31
+Schisto,Schisto,,s39,schisto,6,15.3,,56
+Schisto,Schisto,,s39,schisto,7,15.5,,78
+Schisto,Schisto,,s39,schisto,8,15.7,,78
+Schisto,Schisto,,s39,schisto,9,15.7,,38
+Schisto,Schisto,,s39,schisto,10,15.7,,77
+Schisto,Schisto,,s39,schisto,11,16,,114
+Schisto,Schisto,,s39,schisto,12,16.4,,46
+Schisto,Schisto,,s39,schisto,13,16.7,,29
+Schisto,Schisto,,s39,schisto,14,16.8,,17
+Schisto,Schisto,,s39,schisto,15,16.9,,61
+Schisto,Schisto,,s39,schisto,16,17.2,,99
+Schisto,Schisto,,s39,schisto,17,17.5,,64
+Schisto,Schisto,,s39,schisto,18,17.6,,55
+Schisto,Schisto,,s4,schisto,5,16.3,,73
+Schisto,Schisto,,s4,schisto,6,16.5,,115
+Schisto,Schisto,,s4,schisto,7,16.8,,176
+Schisto,Schisto,,s4,schisto,8,16.9,,72
+Schisto,Schisto,,s4,schisto,9,16.8,,48
+Schisto,Schisto,,s4,schisto,10,17.7,,73
+Schisto,Schisto,,s4,schisto,11,17.3,,42
+Schisto,Schisto,,s4,schisto,12,17.2,,17
+Schisto,Schisto,,s4,schisto,13,17.5,,43
+Schisto,Schisto,,s4,schisto,14,17.6,,36
+Schisto,Schisto,,s4,schisto,15,17.6,,78
+Schisto,Schisto,,s4,schisto,16,17.6,,69
+Schisto,Schisto,,s4,schisto,17,17.4,,178
+Schisto,Schisto,,s4,schisto,18,17.7,,94
+Schisto,Schisto,,s40,schisto,5,13.7,,26
+Schisto,Schisto,,s40,schisto,6,14.3,,51
+Schisto,Schisto,,s40,schisto,7,14.8,,161
+Schisto,Schisto,,s40,schisto,8,15,,59
+Schisto,Schisto,,s40,schisto,9,15.2,,27
+Schisto,Schisto,,s40,schisto,10,15.9,,27
+Schisto,Schisto,,s40,schisto,11,16.1,,87
+Schisto,Schisto,,s40,schisto,12,16.1,,60
+Schisto,Schisto,,s40,schisto,13,16.2,,9
+Schisto,Schisto,,s40,schisto,14,16.3,,30
+Schisto,Schisto,,s40,schisto,15,16.2,,72
+Schisto,Schisto,,s40,schisto,16,16.5,,33
+Schisto,Schisto,,s40,schisto,17,16.5,,90
+Schisto,Schisto,,s40,schisto,18,16.4,,89
+Schisto,Schisto,,s42,schisto,5,13.4,,53
+Schisto,Schisto,,s42,schisto,6,13.7,,29
+Schisto,Schisto,,s42,schisto,7,13.8,,48
+Schisto,Schisto,,s42,schisto,8,13.9,,68
+Schisto,Schisto,,s43,schisto,5,13.3,,3
+Schisto,Schisto,,s43,schisto,6,13.6,,10
+Schisto,Schisto,,s43,schisto,7,13.7,,9
+Schisto,Schisto,,s43,schisto,8,13.9,,8
+Schisto,Schisto,,s43,schisto,9,14.1,,28
+Schisto,Schisto,,s43,schisto,10,14.6,,88
+Schisto,Schisto,,s43,schisto,11,14.6,,18
+Schisto,Schisto,,s43,schisto,12,14.8,,47
+Schisto,Schisto,,s43,schisto,13,14.9,,47
+Schisto,Schisto,,s43,schisto,14,14.8,,31
+Schisto,Schisto,,s43,schisto,15,14.8,,54
+Schisto,Schisto,,s43,schisto,16,15.1,,11
+Schisto,Schisto,,s43,schisto,17,15,,67
+Schisto,Schisto,,s43,schisto,18,15,,64
+Schisto,Schisto,,s44,schisto,5,16,,93
+Schisto,Schisto,,s44,schisto,6,16.2,,75
+Schisto,Schisto,,s44,schisto,7,16.4,,52
+Schisto,Schisto,,s44,schisto,8,16.8,,55
+Schisto,Schisto,,s44,schisto,9,17,,11
+Schisto,Schisto,,s44,schisto,10,17.1,,64
+Schisto,Schisto,,s44,schisto,11,17.3,,72
+Schisto,Schisto,,s44,schisto,12,17.6,,59
+Schisto,Schisto,,s44,schisto,13,17.6,,50
+Schisto,Schisto,,s44,schisto,14,17.7,,28
+Schisto,Schisto,,s44,schisto,15,17.7,,134
+Schisto,Schisto,,s44,schisto,16,17.8,,57
+Schisto,Schisto,,s44,schisto,17,17.8,,94
+Schisto,Schisto,,s44,schisto,18,17.7,,56
+Schisto,Schisto,,s47,schisto,5,14.4,,21
+Schisto,Schisto,,s47,schisto,6,14.7,,26
+Schisto,Schisto,,s47,schisto,7,14.9,,108
+Schisto,Schisto,,s47,schisto,8,15.1,,28
+Schisto,Schisto,,s47,schisto,9,14.9,,51
+Schisto,Schisto,,s47,schisto,10,15.3,,81
+Schisto,Schisto,,s47,schisto,11,15.3,,108
+Schisto,Schisto,,s47,schisto,12,15.5,,113
+Schisto,Schisto,,s47,schisto,13,15.7,,37
+Schisto,Schisto,,s47,schisto,14,15.9,,44
+Schisto,Schisto,,s47,schisto,15,15.6,,56
+Schisto,Schisto,,s47,schisto,16,16,,53
+Schisto,Schisto,,s47,schisto,17,15.8,,50
+Schisto,Schisto,,s48,schisto,5,15.6,,1
+Schisto,Schisto,,s48,schisto,6,16.1,,36
+Schisto,Schisto,,s48,schisto,7,16.1,,68
+Schisto,Schisto,,s48,schisto,8,16,,82
+Schisto,Schisto,,s48,schisto,9,15.6,,19
+Schisto,Schisto,,s48,schisto,10,15.7,,76
+Schisto,Schisto,,s48,schisto,11,16.1,,49
+Schisto,Schisto,,s49,schisto,5,13.7,,15
+Schisto,Schisto,,s49,schisto,6,14.6,,80
+Schisto,Schisto,,s49,schisto,7,15.1,,100
+Schisto,Schisto,,s49,schisto,8,15.4,,50
+Schisto,Schisto,,s49,schisto,9,15.3,,44
+Schisto,Schisto,,s49,schisto,10,15.5,,183
+Schisto,Schisto,,s49,schisto,11,15.8,,46
+Schisto,Schisto,,s49,schisto,12,16,,100
+Schisto,Schisto,,s49,schisto,13,16.1,,51
+Schisto,Schisto,,s49,schisto,14,16.3,,26
+Schisto,Schisto,,s49,schisto,15,16.1,,131
+Schisto,Schisto,,s49,schisto,16,16.5,,90
+Schisto,Schisto,,s49,schisto,17,16.3,,98
+Schisto,Schisto,,s49,schisto,18,16.5,,102
+Schisto,Schisto,,s50,schisto,5,15.9,,61
+Schisto,Schisto,,s50,schisto,6,15.8,,27
+Schisto,Schisto,,s50,schisto,7,16.3,,92
+Schisto,Schisto,,s50,schisto,8,16.3,,85
+Schisto,Schisto,,s50,schisto,9,16.1,,17
+Schisto,Schisto,,s50,schisto,10,16.4,,24
+Schisto,Schisto,,s6,schisto,5,16.5,,94
+Schisto,Schisto,,s6,schisto,6,16.6,,81
+Schisto,Schisto,,s6,schisto,7,16.9,,154
+Schisto,Schisto,,s6,schisto,8,16.8,,134
+Schisto,Schisto,,s6,schisto,9,16.9,,87
+Schisto,Schisto,,s6,schisto,10,17.1,,77
+Schisto,Schisto,,s6,schisto,11,17.3,,34
+Schisto,Schisto,,s6,schisto,12,17.3,,86
+Schisto,Schisto,,s6,schisto,13,17.4,,86
+Schisto,Schisto,,s6,schisto,14,17.3,,21
+Schisto,Schisto,,s6,schisto,15,17.4,,69
+Schisto,Schisto,,s6,schisto,16,17.4,,48
+Schisto,Schisto,,s6,schisto,17,17.6,,82
+Schisto,Schisto,,s6,schisto,18,17.6,,77
+Schisto,Schisto,,s7,schisto,4,12.9,,10
+Schisto,Schisto,,s7,schisto,5,13.3,,23
+Schisto,Schisto,,s7,schisto,6,13.5,,19
+Schisto,Schisto,,s7,schisto,7,13.7,,96
+Schisto,Schisto,,s7,schisto,8,13.8,,41
+Schisto,Schisto,,s7,schisto,9,13.8,,30
+Schisto,Schisto,,s7,schisto,10,14.1,,38
+Schisto,Schisto,,s7,schisto,11,14.2,,26
+Schisto,Schisto,,s7,schisto,12,14.3,,21
+Schisto,Schisto,,s7,schisto,13,14.4,,17
+Schisto,Schisto,,s7,schisto,14,14.4,,7
+Schisto,Schisto,,s7,schisto,15,14.5,,37
+Schisto,Schisto,,s7,schisto,16,14.6,,21
+Schisto,Schisto,,s7,schisto,17,14.6,,65
+Schisto,Schisto,,s7,schisto,18,14.8,,61
+Schisto,Schisto,,s8,schisto,5,14.5,,26
+Schisto,Schisto,,s8,schisto,6,15,,26
+Schisto,Schisto,,s8,schisto,7,15.2,,82
+Schisto,Schisto,,s8,schisto,8,15.3,,47
+Schisto,Schisto,,s8,schisto,9,15.2,,125
+Schisto,Schisto,,s8,schisto,10,15.5,,46
+Schisto,Schisto,,s8,schisto,11,15.5,,67
+Schisto,Schisto,,s8,schisto,12,15.7,,61
+Schisto,Schisto,,s8,schisto,13,15.7,,45
+Schisto,Schisto,,s8,schisto,14,15.7,,39
+Schisto,Schisto,,s8,schisto,15,15.7,,65
+Schisto,Schisto,,s8,schisto,16,15.8,,40
+Schisto,Schisto,,s8,schisto,17,15.8,,96
+Schisto,Schisto,,s8,schisto,18,15.9,,85
+Schisto,Schisto,,s9,schisto,5,16.6,,35
+Schisto,Schisto,,s9,schisto,6,17,,42
+Schisto,Schisto,,s9,schisto,7,17.3,,54
+Schisto,Schisto,,s9,schisto,8,17.5,,17
+Schisto,Schisto,,s9,schisto,9,17.2,,22
+Schisto,Schisto,,s9,schisto,10,17.5,,8
+Schisto,Schisto,,s9,schisto,11,17.6,,6
+Schisto,Schisto,,s9,schisto,12,17.9,,22
+Schisto,Schisto,,s9,schisto,13,18.1,,19
+Schisto,Schisto,,s9,schisto,14,18.3,,35
+Schisto,Schisto,,s9,schisto,15,18.3,,40
+Schisto,Schisto,,s9,schisto,16,18.5,,30
+Schisto,Schisto,,s9,schisto,17,18.8,,48
+Schisto,Schisto,,s9,schisto,18,18.9,,32
