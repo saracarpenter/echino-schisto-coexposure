@@ -1,1 +1,0 @@
-# echino-schisto-coexposure
